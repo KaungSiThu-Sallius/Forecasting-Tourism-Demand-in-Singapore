@@ -1,0 +1,411 @@
+index,date,hotels_info,hotels_data
+0,2024-10-01,Hotel Room Revenue,442741.7
+1,2024-10-01,Standard Average Room Rate,275.2
+2,2024-10-01,Standard Average Hotel Occupancy Rate,81.8
+3,2024-10-01,Gross Lettings (Room-Nights),1595416.0
+4,2024-10-01,Available Room-Nights,1950641.0
+5,2024-09-01,Hotel Room Revenue,510756.5
+6,2024-09-01,Standard Average Room Rate,315.8
+7,2024-09-01,Standard Average Hotel Occupancy Rate,83.3
+8,2024-09-01,Gross Lettings (Room-Nights),1602254.0
+9,2024-09-01,Available Room-Nights,1923455.0
+10,2024-08-01,Hotel Room Revenue,489661.8
+11,2024-08-01,Standard Average Room Rate,277.9
+12,2024-08-01,Standard Average Hotel Occupancy Rate,88.1
+13,2024-08-01,Gross Lettings (Room-Nights),1745458.0
+14,2024-08-01,Available Room-Nights,1980724.0
+15,2024-07-01,Hotel Room Revenue,492146.5
+16,2024-07-01,Standard Average Room Rate,274.5
+17,2024-07-01,Standard Average Hotel Occupancy Rate,89.8
+18,2024-07-01,Gross Lettings (Room-Nights),1776309.0
+19,2024-07-01,Available Room-Nights,1978513.0
+20,2024-06-01,Hotel Room Revenue,392165.7
+21,2024-06-01,Standard Average Room Rate,264.0
+22,2024-06-01,Standard Average Hotel Occupancy Rate,77.7
+23,2024-06-01,Gross Lettings (Room-Nights),1475600.0
+24,2024-06-01,Available Room-Nights,1898387.0
+25,2024-05-01,Hotel Room Revenue,435090.8
+26,2024-05-01,Standard Average Room Rate,275.4
+27,2024-05-01,Standard Average Hotel Occupancy Rate,79.3
+28,2024-05-01,Gross Lettings (Room-Nights),1567252.0
+29,2024-05-01,Available Room-Nights,1977380.0
+30,2024-04-01,Hotel Room Revenue,405035.2
+31,2024-04-01,Standard Average Room Rate,272.8
+32,2024-04-01,Standard Average Hotel Occupancy Rate,78.4
+33,2024-04-01,Gross Lettings (Room-Nights),1472616.0
+34,2024-04-01,Available Room-Nights,1879480.0
+35,2024-03-01,Hotel Room Revenue,484392.3
+36,2024-03-01,Standard Average Room Rate,294.4
+37,2024-03-01,Standard Average Hotel Occupancy Rate,83.6
+38,2024-03-01,Gross Lettings (Room-Nights),1631557.0
+39,2024-03-01,Available Room-Nights,1950931.0
+40,2024-02-01,Hotel Room Revenue,445472.1
+41,2024-02-01,Standard Average Room Rate,289.5
+42,2024-02-01,Standard Average Hotel Occupancy Rate,83.3
+43,2024-02-01,Gross Lettings (Room-Nights),1525919.0
+44,2024-02-01,Available Room-Nights,1831324.0
+45,2024-01-01,Hotel Room Revenue,422714.9
+46,2024-01-01,Standard Average Room Rate,273.4
+47,2024-01-01,Standard Average Hotel Occupancy Rate,78.4
+48,2024-01-01,Gross Lettings (Room-Nights),1534791.0
+49,2024-01-01,Available Room-Nights,1958855.0
+50,2023-12-01,Hotel Room Revenue,403258.2
+51,2023-12-01,Standard Average Room Rate,279.6
+52,2023-12-01,Standard Average Hotel Occupancy Rate,74.2
+53,2023-12-01,Gross Lettings (Room-Nights),1429134.0
+54,2023-12-01,Available Room-Nights,1926510.0
+55,2023-11-01,Hotel Room Revenue,400803.1
+56,2023-11-01,Standard Average Room Rate,269.9
+57,2023-11-01,Standard Average Hotel Occupancy Rate,78.7
+58,2023-11-01,Gross Lettings (Room-Nights),1472456.0
+59,2023-11-01,Available Room-Nights,1871496.0
+60,2023-10-01,Hotel Room Revenue,407017.3
+61,2023-10-01,Standard Average Room Rate,270.5
+62,2023-10-01,Standard Average Hotel Occupancy Rate,78.0
+63,2023-10-01,Gross Lettings (Room-Nights),1491350.0
+64,2023-10-01,Available Room-Nights,1912067.0
+65,2023-09-01,Hotel Room Revenue,489201.0
+66,2023-09-01,Standard Average Room Rate,317.8
+67,2023-09-01,Standard Average Hotel Occupancy Rate,82.9
+68,2023-09-01,Gross Lettings (Room-Nights),1524943.0
+69,2023-09-01,Available Room-Nights,1839073.0
+70,2023-08-01,Hotel Room Revenue,454352.5
+71,2023-08-01,Standard Average Room Rate,280.0
+72,2023-08-01,Standard Average Hotel Occupancy Rate,86.7
+73,2023-08-01,Gross Lettings (Room-Nights),1605530.0
+74,2023-08-01,Available Room-Nights,1852618.0
+75,2023-07-01,Hotel Room Revenue,479743.0
+76,2023-07-01,Standard Average Room Rate,285.3
+77,2023-07-01,Standard Average Hotel Occupancy Rate,90.7
+78,2023-07-01,Gross Lettings (Room-Nights),1661681.0
+79,2023-07-01,Available Room-Nights,1832770.0
+80,2023-06-01,Hotel Room Revenue,385038.3
+81,2023-06-01,Standard Average Room Rate,263.6
+82,2023-06-01,Standard Average Hotel Occupancy Rate,81.6
+83,2023-06-01,Gross Lettings (Room-Nights),1446019.0
+84,2023-06-01,Available Room-Nights,1771901.0
+85,2023-05-01,Hotel Room Revenue,398518.6
+86,2023-05-01,Standard Average Room Rate,266.8
+87,2023-05-01,Standard Average Hotel Occupancy Rate,80.9
+88,2023-05-01,Gross Lettings (Room-Nights),1479207.0
+89,2023-05-01,Available Room-Nights,1829414.0
+90,2023-04-01,Hotel Room Revenue,367816.1
+91,2023-04-01,Standard Average Room Rate,265.9
+92,2023-04-01,Standard Average Hotel Occupancy Rate,79.2
+93,2023-04-01,Gross Lettings (Room-Nights),1369518.0
+94,2023-04-01,Available Room-Nights,1729584.0
+95,2023-03-01,Hotel Room Revenue,362884.1
+96,2023-03-01,Standard Average Room Rate,259.5
+97,2023-03-01,Standard Average Hotel Occupancy Rate,80.3
+98,2023-03-01,Gross Lettings (Room-Nights),1385104.0
+99,2023-03-01,Available Room-Nights,1725943.0
+100,2023-02-01,Hotel Room Revenue,351487.7
+101,2023-02-01,Standard Average Room Rate,267.5
+102,2023-02-01,Standard Average Hotel Occupancy Rate,85.2
+103,2023-02-01,Gross Lettings (Room-Nights),1299598.0
+104,2023-02-01,Available Room-Nights,1526145.0
+105,2023-01-01,Hotel Room Revenue,320654.0
+106,2023-01-01,Standard Average Room Rate,266.2
+107,2023-01-01,Standard Average Hotel Occupancy Rate,71.7
+108,2023-01-01,Gross Lettings (Room-Nights),1193309.0
+109,2023-01-01,Available Room-Nights,1663478.0
+110,2022-12-01,Hotel Room Revenue,371353.5
+111,2022-12-01,Standard Average Room Rate,287.3
+112,2022-12-01,Standard Average Hotel Occupancy Rate,78.2
+113,2022-12-01,Gross Lettings (Room-Nights),1292305.0
+114,2022-12-01,Available Room-Nights,1653139.0
+115,2022-11-01,Hotel Room Revenue,389568.2
+116,2022-11-01,Standard Average Room Rate,281.5
+117,2022-11-01,Standard Average Hotel Occupancy Rate,85.8
+118,2022-11-01,Gross Lettings (Room-Nights),1383855.0
+119,2022-11-01,Available Room-Nights,1612464.0
+120,2022-10-01,Hotel Room Revenue,407770.5
+121,2022-10-01,Standard Average Room Rate,284.4
+122,2022-10-01,Standard Average Hotel Occupancy Rate,84.4
+123,2022-10-01,Gross Lettings (Room-Nights),1430698.0
+124,2022-10-01,Available Room-Nights,1694491.0
+125,2022-09-01,Hotel Room Revenue,386781.0
+126,2022-09-01,Standard Average Room Rate,283.7
+127,2022-09-01,Standard Average Hotel Occupancy Rate,82.8
+128,2022-09-01,Gross Lettings (Room-Nights),1357836.0
+129,2022-09-01,Available Room-Nights,1639052.0
+130,2022-08-01,Hotel Room Revenue,311521.3
+131,2022-08-01,Standard Average Room Rate,249.7
+132,2022-08-01,Standard Average Hotel Occupancy Rate,77.1
+133,2022-08-01,Gross Lettings (Room-Nights),1245159.0
+134,2022-08-01,Available Room-Nights,1614058.0
+135,2022-07-01,Hotel Room Revenue,316633.3
+136,2022-07-01,Standard Average Room Rate,258.5
+137,2022-07-01,Standard Average Hotel Occupancy Rate,79.1
+138,2022-07-01,Gross Lettings (Room-Nights),1220488.0
+139,2022-07-01,Available Room-Nights,1542167.0
+140,2022-06-01,Hotel Room Revenue,282461.0
+141,2022-06-01,Standard Average Room Rate,241.5
+142,2022-06-01,Standard Average Hotel Occupancy Rate,78.1
+143,2022-06-01,Gross Lettings (Room-Nights),1163500.0
+144,2022-06-01,Available Room-Nights,1490270.0
+145,2022-05-01,Hotel Room Revenue,231967.7
+146,2022-05-01,Standard Average Room Rate,223.4
+147,2022-05-01,Standard Average Hotel Occupancy Rate,72.8
+148,2022-05-01,Gross Lettings (Room-Nights),1035300.0
+149,2022-05-01,Available Room-Nights,1422659.0
+150,2022-04-01,Hotel Room Revenue,181792.1
+151,2022-04-01,Standard Average Room Rate,207.2
+152,2022-04-01,Standard Average Hotel Occupancy Rate,66.4
+153,2022-04-01,Gross Lettings (Room-Nights),873546.0
+154,2022-04-01,Available Room-Nights,1315682.0
+155,2022-03-01,Hotel Room Revenue,154392.1
+156,2022-03-01,Standard Average Room Rate,192.3
+157,2022-03-01,Standard Average Hotel Occupancy Rate,60.6
+158,2022-03-01,Gross Lettings (Room-Nights),799174.0
+159,2022-03-01,Available Room-Nights,1319142.0
+160,2022-02-01,Hotel Room Revenue,107563.2
+161,2022-02-01,Standard Average Room Rate,193.1
+162,2022-02-01,Standard Average Hotel Occupancy Rate,62.7
+163,2022-02-01,Gross Lettings (Room-Nights),555599.0
+164,2022-02-01,Available Room-Nights,886503.0
+165,2022-01-01,Hotel Room Revenue,102164.8
+166,2022-01-01,Standard Average Room Rate,184.9
+167,2022-01-01,Standard Average Hotel Occupancy Rate,57.5
+168,2022-01-01,Gross Lettings (Room-Nights),552185.0
+169,2022-01-01,Available Room-Nights,959793.0
+170,2021-12-01,Hotel Room Revenue,131882.5
+171,2021-12-01,Standard Average Room Rate,223.8
+172,2021-12-01,Standard Average Hotel Occupancy Rate,74.3
+173,2021-12-01,Gross Lettings (Room-Nights),588766.0
+174,2021-12-01,Available Room-Nights,792231.0
+175,2021-11-01,Hotel Room Revenue,101263.9
+176,2021-11-01,Standard Average Room Rate,174.0
+177,2021-11-01,Standard Average Hotel Occupancy Rate,78.0
+178,2021-11-01,Gross Lettings (Room-Nights),579783.0
+179,2021-11-01,Available Room-Nights,743198.0
+180,2021-10-01,Hotel Room Revenue,81555.6
+181,2021-10-01,Standard Average Room Rate,159.5
+182,2021-10-01,Standard Average Hotel Occupancy Rate,64.4
+183,2021-10-01,Gross Lettings (Room-Nights),507708.0
+184,2021-10-01,Available Room-Nights,788834.0
+185,2021-09-01,Hotel Room Revenue,77910.1
+186,2021-09-01,Standard Average Room Rate,154.5
+187,2021-09-01,Standard Average Hotel Occupancy Rate,65.1
+188,2021-09-01,Gross Lettings (Room-Nights),504266.0
+189,2021-09-01,Available Room-Nights,774563.0
+190,2021-08-01,Hotel Room Revenue,70278.6
+191,2021-08-01,Standard Average Room Rate,151.7
+192,2021-08-01,Standard Average Hotel Occupancy Rate,56.1
+193,2021-08-01,Gross Lettings (Room-Nights),463347.0
+194,2021-08-01,Available Room-Nights,826277.0
+195,2021-07-01,Hotel Room Revenue,70270.7
+196,2021-07-01,Standard Average Room Rate,151.3
+197,2021-07-01,Standard Average Hotel Occupancy Rate,56.1
+198,2021-07-01,Gross Lettings (Room-Nights),464342.0
+199,2021-07-01,Available Room-Nights,827875.0
+200,2021-06-01,Hotel Room Revenue,66144.3
+201,2021-06-01,Standard Average Room Rate,144.9
+202,2021-06-01,Standard Average Hotel Occupancy Rate,54.6
+203,2021-06-01,Gross Lettings (Room-Nights),452894.0
+204,2021-06-01,Available Room-Nights,828799.0
+205,2021-05-01,Hotel Room Revenue,69425.8
+206,2021-05-01,Standard Average Room Rate,139.0
+207,2021-05-01,Standard Average Hotel Occupancy Rate,52.9
+208,2021-05-01,Gross Lettings (Room-Nights),499484.0
+209,2021-05-01,Available Room-Nights,943499.0
+210,2021-04-01,Hotel Room Revenue,83131.9
+211,2021-04-01,Standard Average Room Rate,155.9
+212,2021-04-01,Standard Average Hotel Occupancy Rate,52.7
+213,2021-04-01,Gross Lettings (Room-Nights),533251.0
+214,2021-04-01,Available Room-Nights,1011827.0
+215,2021-03-01,Hotel Room Revenue,81373.0
+216,2021-03-01,Standard Average Room Rate,150.6
+217,2021-03-01,Standard Average Hotel Occupancy Rate,51.4
+218,2021-03-01,Gross Lettings (Room-Nights),539089.0
+219,2021-03-01,Available Room-Nights,1048233.0
+220,2021-02-01,Hotel Room Revenue,64460.5
+221,2021-02-01,Standard Average Room Rate,152.4
+222,2021-02-01,Standard Average Hotel Occupancy Rate,44.2
+223,2021-02-01,Gross Lettings (Room-Nights),422936.0
+224,2021-02-01,Available Room-Nights,957525.0
+225,2021-01-01,Hotel Room Revenue,68551.6
+226,2021-01-01,Standard Average Room Rate,150.8
+227,2021-01-01,Standard Average Hotel Occupancy Rate,44.3
+228,2021-01-01,Gross Lettings (Room-Nights),454413.0
+229,2021-01-01,Available Room-Nights,1025455.0
+230,2020-12-01,Hotel Room Revenue,113156.2
+231,2020-12-01,Standard Average Room Rate,186.6
+232,2020-12-01,Standard Average Hotel Occupancy Rate,62.0
+233,2020-12-01,Gross Lettings (Room-Nights),606305.0
+234,2020-12-01,Available Room-Nights,977156.0
+235,2020-11-01,Hotel Room Revenue,75209.2
+236,2020-11-01,Standard Average Room Rate,154.6
+237,2020-11-01,Standard Average Hotel Occupancy Rate,54.2
+238,2020-11-01,Gross Lettings (Room-Nights),486441.0
+239,2020-11-01,Available Room-Nights,898017.0
+240,2020-10-01,Hotel Room Revenue,74360.3
+241,2020-10-01,Standard Average Room Rate,143.5
+242,2020-10-01,Standard Average Hotel Occupancy Rate,57.6
+243,2020-10-01,Gross Lettings (Room-Nights),518190.0
+244,2020-10-01,Available Room-Nights,899779.0
+245,2020-09-01,Hotel Room Revenue,65589.1
+246,2020-09-01,Standard Average Room Rate,125.7
+247,2020-09-01,Standard Average Hotel Occupancy Rate,63.1
+248,2020-09-01,Gross Lettings (Room-Nights),521554.0
+249,2020-09-01,Available Room-Nights,826251.0
+250,2020-08-01,Hotel Room Revenue,64049.2
+251,2020-08-01,Standard Average Room Rate,121.0
+252,2020-08-01,Standard Average Hotel Occupancy Rate,64.8
+253,2020-08-01,Gross Lettings (Room-Nights),529518.0
+254,2020-08-01,Available Room-Nights,817726.0
+255,2020-07-01,Hotel Room Revenue,37825.8
+256,2020-07-01,Standard Average Room Rate,83.4
+257,2020-07-01,Standard Average Hotel Occupancy Rate,66.4
+258,2020-07-01,Gross Lettings (Room-Nights),447085.0
+259,2020-07-01,Available Room-Nights,673407.0
+260,2020-06-01,Hotel Room Revenue,33441.7
+261,2020-06-01,Standard Average Room Rate,64.9
+262,2020-06-01,Standard Average Hotel Occupancy Rate,57.0
+263,2020-06-01,Gross Lettings (Room-Nights),514964.0
+264,2020-06-01,Available Room-Nights,902667.0
+265,2020-05-01,Hotel Room Revenue,38270.2
+266,2020-05-01,Standard Average Room Rate,64.5
+267,2020-05-01,Standard Average Hotel Occupancy Rate,59.3
+268,2020-05-01,Gross Lettings (Room-Nights),593689.0
+269,2020-05-01,Available Room-Nights,1001913.0
+270,2020-04-01,Hotel Room Revenue,54612.1
+271,2020-04-01,Standard Average Room Rate,88.7
+272,2020-04-01,Standard Average Hotel Occupancy Rate,40.4
+273,2020-04-01,Gross Lettings (Room-Nights),615760.0
+274,2020-04-01,Available Room-Nights,1522885.0
+275,2020-03-01,Hotel Room Revenue,121760.7
+276,2020-03-01,Standard Average Room Rate,170.6
+277,2020-03-01,Standard Average Hotel Occupancy Rate,40.2
+278,2020-03-01,Gross Lettings (Room-Nights),713530.0
+279,2020-03-01,Available Room-Nights,1776618.0
+280,2020-02-01,Hotel Room Revenue,186474.1
+281,2020-02-01,Standard Average Room Rate,224.3
+282,2020-02-01,Standard Average Hotel Occupancy Rate,49.1
+283,2020-02-01,Gross Lettings (Room-Nights),831421.0
+284,2020-02-01,Available Room-Nights,1694775.0
+285,2020-01-01,Hotel Room Revenue,369259.6
+286,2020-01-01,Standard Average Room Rate,231.1
+287,2020-01-01,Standard Average Hotel Occupancy Rate,83.0
+288,2020-01-01,Gross Lettings (Room-Nights),1597859.0
+289,2020-01-01,Available Room-Nights,1926285.0
+290,2019-12-01,Hotel Room Revenue,371830.3
+291,2019-12-01,Standard Average Room Rate,233.6
+292,2019-12-01,Standard Average Hotel Occupancy Rate,83.0
+293,2019-12-01,Gross Lettings (Room-Nights),1587373.0
+294,2019-12-01,Available Room-Nights,1912817.0
+295,2019-11-01,Hotel Room Revenue,368506.3
+296,2019-11-01,Standard Average Room Rate,224.5
+297,2019-11-01,Standard Average Hotel Occupancy Rate,88.8
+298,2019-11-01,Gross Lettings (Room-Nights),1640436.0
+299,2019-11-01,Available Room-Nights,1846820.0
+300,2019-10-01,Hotel Room Revenue,372207.6
+301,2019-10-01,Standard Average Room Rate,223.6
+302,2019-10-01,Standard Average Hotel Occupancy Rate,86.9
+303,2019-10-01,Gross Lettings (Room-Nights),1661171.0
+304,2019-10-01,Available Room-Nights,1911073.0
+305,2019-09-01,Hotel Room Revenue,375892.7
+306,2019-09-01,Standard Average Room Rate,235.4
+307,2019-09-01,Standard Average Hotel Occupancy Rate,87.1
+308,2019-09-01,Gross Lettings (Room-Nights),1593343.0
+309,2019-09-01,Available Room-Nights,1828671.0
+310,2019-08-01,Hotel Room Revenue,383423.8
+311,2019-08-01,Standard Average Room Rate,225.1
+312,2019-08-01,Standard Average Hotel Occupancy Rate,92.4
+313,2019-08-01,Gross Lettings (Room-Nights),1693776.0
+314,2019-08-01,Available Room-Nights,1832265.0
+315,2019-07-01,Hotel Room Revenue,377573.2
+316,2019-07-01,Standard Average Room Rate,218.7
+317,2019-07-01,Standard Average Hotel Occupancy Rate,93.9
+318,2019-07-01,Gross Lettings (Room-Nights),1725297.0
+319,2019-07-01,Available Room-Nights,1837350.0
+320,2019-06-01,Hotel Room Revenue,319771.6
+321,2019-06-01,Standard Average Room Rate,210.6
+322,2019-06-01,Standard Average Hotel Occupancy Rate,86.1
+323,2019-06-01,Gross Lettings (Room-Nights),1517318.0
+324,2019-06-01,Available Room-Nights,1761383.0
+325,2019-05-01,Hotel Room Revenue,306710.4
+326,2019-05-01,Standard Average Room Rate,206.5
+327,2019-05-01,Standard Average Hotel Occupancy Rate,82.0
+328,2019-05-01,Gross Lettings (Room-Nights),1485293.0
+329,2019-05-01,Available Room-Nights,1811517.0
+330,2019-04-01,Hotel Room Revenue,324915.0
+331,2019-04-01,Standard Average Room Rate,215.0
+332,2019-04-01,Standard Average Hotel Occupancy Rate,85.4
+333,2019-04-01,Gross Lettings (Room-Nights),1509500.0
+334,2019-04-01,Available Room-Nights,1767049.0
+335,2019-03-01,Hotel Room Revenue,331225.1
+336,2019-03-01,Standard Average Room Rate,214.8
+337,2019-03-01,Standard Average Hotel Occupancy Rate,84.3
+338,2019-03-01,Gross Lettings (Room-Nights),1541773.0
+339,2019-03-01,Available Room-Nights,1828569.0
+340,2019-02-01,Hotel Room Revenue,328912.2
+341,2019-02-01,Standard Average Room Rate,224.1
+342,2019-02-01,Standard Average Hotel Occupancy Rate,88.5
+343,2019-02-01,Gross Lettings (Room-Nights),1467338.0
+344,2019-02-01,Available Room-Nights,1658376.0
+345,2019-01-01,Hotel Room Revenue,334808.5
+346,2019-01-01,Standard Average Room Rate,215.9
+347,2019-01-01,Standard Average Hotel Occupancy Rate,84.7
+348,2019-01-01,Gross Lettings (Room-Nights),1550957.0
+349,2019-01-01,Available Room-Nights,1830834.0
+350,2018-12-01,Hotel Room Revenue,329307.6
+351,2018-12-01,Standard Average Room Rate,222.0
+352,2018-12-01,Standard Average Hotel Occupancy Rate,80.7
+353,2018-12-01,Gross Lettings (Room-Nights),1483662.0
+354,2018-12-01,Available Room-Nights,1837453.0
+355,2018-11-01,Hotel Room Revenue,329039.9
+356,2018-11-01,Standard Average Room Rate,218.6
+357,2018-11-01,Standard Average Hotel Occupancy Rate,84.9
+358,2018-11-01,Gross Lettings (Room-Nights),1505190.0
+359,2018-11-01,Available Room-Nights,1771864.0
+360,2018-10-01,Hotel Room Revenue,347408.2
+361,2018-10-01,Standard Average Room Rate,219.4
+362,2018-10-01,Standard Average Hotel Occupancy Rate,86.4
+363,2018-10-01,Gross Lettings (Room-Nights),1583262.0
+364,2018-10-01,Available Room-Nights,1833163.0
+365,2018-09-01,Hotel Room Revenue,345938.6
+366,2018-09-01,Standard Average Room Rate,229.0
+367,2018-09-01,Standard Average Hotel Occupancy Rate,85.3
+368,2018-09-01,Gross Lettings (Room-Nights),1510715.0
+369,2018-09-01,Available Room-Nights,1770305.0
+370,2018-08-01,Hotel Room Revenue,362218.0
+371,2018-08-01,Standard Average Room Rate,217.7
+372,2018-08-01,Standard Average Hotel Occupancy Rate,91.5
+373,2018-08-01,Gross Lettings (Room-Nights),1663784.0
+374,2018-08-01,Available Room-Nights,1817814.0
+375,2018-07-01,Hotel Room Revenue,362612.2
+376,2018-07-01,Standard Average Room Rate,216.3
+377,2018-07-01,Standard Average Hotel Occupancy Rate,92.4
+378,2018-07-01,Gross Lettings (Room-Nights),1676452.0
+379,2018-07-01,Available Room-Nights,1814618.0
+380,2018-06-01,Hotel Room Revenue,318090.4
+381,2018-06-01,Standard Average Room Rate,212.9
+382,2018-06-01,Standard Average Hotel Occupancy Rate,85.5
+383,2018-06-01,Gross Lettings (Room-Nights),1494124.0
+384,2018-06-01,Available Room-Nights,1748319.0
+385,2018-05-01,Hotel Room Revenue,308845.3
+386,2018-05-01,Standard Average Room Rate,207.0
+387,2018-05-01,Standard Average Hotel Occupancy Rate,82.6
+388,2018-05-01,Gross Lettings (Room-Nights),1491761.0
+389,2018-05-01,Available Room-Nights,1806810.0
+390,2018-04-01,Hotel Room Revenue,328990.2
+391,2018-04-01,Standard Average Room Rate,219.8
+392,2018-04-01,Standard Average Hotel Occupancy Rate,85.2
+393,2018-04-01,Gross Lettings (Room-Nights),1495282.0
+394,2018-04-01,Available Room-Nights,1754243.0
+395,2018-03-01,Hotel Room Revenue,338739.1
+396,2018-03-01,Standard Average Room Rate,220.1
+397,2018-03-01,Standard Average Hotel Occupancy Rate,87.2
+398,2018-03-01,Gross Lettings (Room-Nights),1538947.0
+399,2018-03-01,Available Room-Nights,1764808.0
+400,2018-02-01,Hotel Room Revenue,313245.2
+401,2018-02-01,Standard Average Room Rate,224.3
+402,2018-02-01,Standard Average Hotel Occupancy Rate,88.0
+403,2018-02-01,Gross Lettings (Room-Nights),1396835.0
+404,2018-02-01,Available Room-Nights,1587414.0
+405,2018-01-01,Hotel Room Revenue,310182.6
+406,2018-01-01,Standard Average Room Rate,214.1
+407,2018-01-01,Standard Average Hotel Occupancy Rate,83.4
+408,2018-01-01,Gross Lettings (Room-Nights),1448484.0
+409,2018-01-01,Available Room-Nights,1736362.0

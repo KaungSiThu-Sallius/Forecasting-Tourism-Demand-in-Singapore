@@ -1,0 +1,1744 @@
+date,category_value,visitor_arrivals,category
+2024-11-01,    Southeast Asia,471019,region
+2024-11-01,    Hong Kong SAR,29421,region
+2024-11-01,    Taiwan,32573,region
+2024-11-01,    Japan,39158,region
+2024-11-01,    India,96213,region
+2024-11-01,    Pakistan,1546,region
+2024-11-01,    Sri Lanka,5026,region
+2024-11-01,    Americas,83477,region
+2024-11-01,    Canada,13653,region
+2024-11-01,    USA,60653,region
+2024-11-01,    Europe,172267,region
+2024-11-01,    United Kingdom,47420,region
+2024-11-01,    France,16065,region
+2024-11-01,    Germany,28084,region
+2024-11-01,    Italy,6506,region
+2024-11-01,    Netherlands,8170,region
+2024-11-01,    Switzerland,7578,region
+2024-11-01,    Oceania,112112,region
+2024-11-01,    Australia,103310,region
+2024-11-01,    New Zealand,12834,region
+2024-11-01,    Africa,5956,region
+2024-10-01,    Southeast Asia,451703,region
+2024-10-01,    Hong Kong SAR,30077,region
+2024-10-01,    Taiwan,29422,region
+2024-10-01,    Japan,53093,region
+2024-10-01,    India,101823,region
+2024-10-01,    Pakistan,1405,region
+2024-10-01,    Sri Lanka,4929,region
+2024-10-01,    Americas,80729,region
+2024-10-01,    Canada,13842,region
+2024-10-01,    USA,59927,region
+2024-10-01,    Europe,169203,region
+2024-10-01,    United Kingdom,48461,region
+2024-10-01,    France,16319,region
+2024-10-01,    Germany,28026,region
+2024-10-01,    Italy,7861,region
+2024-10-01,    Netherlands,7958,region
+2024-10-01,    Switzerland,7645,region
+2024-10-01,    Oceania,115651,region
+2024-10-01,    Australia,103796,region
+2024-10-01,    New Zealand,13389,region
+2024-10-01,    Africa,5594,region
+2024-09-01,    Southeast Asia,447842,region
+2024-09-01,    Hong Kong SAR,30195,region
+2024-09-01,    Taiwan,32125,region
+2024-09-01,    Japan,51176,region
+2024-09-01,    India,97016,region
+2024-09-01,    Pakistan,1488,region
+2024-09-01,    Sri Lanka,4980,region
+2024-09-01,    Americas,76873,region
+2024-09-01,    Canada,11879,region
+2024-09-01,    USA,57537,region
+2024-09-01,    Europe,156684,region
+2024-09-01,    United Kingdom,43660,region
+2024-09-01,    France,15470,region
+2024-09-01,    Germany,25119,region
+2024-09-01,    Italy,7214,region
+2024-09-01,    Netherlands,6902,region
+2024-09-01,    Switzerland,7742,region
+2024-09-01,    Oceania,111269,region
+2024-09-01,    Australia,98624,region
+2024-09-01,    New Zealand,12842,region
+2024-09-01,    Africa,6019,region
+2024-08-01,    Southeast Asia,415023,region
+2024-08-01,    Hong Kong SAR,29884,region
+2024-08-01,    Taiwan,35402,region
+2024-08-01,    Japan,58348,region
+2024-08-01,    India,99579,region
+2024-08-01,    Pakistan,1290,region
+2024-08-01,    Sri Lanka,5068,region
+2024-08-01,    Americas,77562,region
+2024-08-01,    Canada,11781,region
+2024-08-01,    USA,57011,region
+2024-08-01,    Europe,172736,region
+2024-08-01,    United Kingdom,46776,region
+2024-08-01,    France,15753,region
+2024-08-01,    Germany,28879,region
+2024-08-01,    Italy,11365,region
+2024-08-01,    Netherlands,8534,region
+2024-08-01,    Switzerland,7578,region
+2024-08-01,    Oceania,109100,region
+2024-08-01,    Australia,96635,region
+2024-08-01,    New Zealand,13110,region
+2024-08-01,    Africa,6281,region
+2024-07-01,    Southeast Asia,414700,region
+2024-07-01,    Hong Kong SAR,21758,region
+2024-07-01,    Taiwan,36616,region
+2024-07-01,    Japan,56043,region
+2024-07-01,    India,89468,region
+2024-07-01,    Pakistan,1454,region
+2024-07-01,    Sri Lanka,5356,region
+2024-07-01,    Americas,74711,region
+2024-07-01,    Canada,12227,region
+2024-07-01,    USA,55084,region
+2024-07-01,    Europe,164051,region
+2024-07-01,    United Kingdom,48533,region
+2024-07-01,    France,16825,region
+2024-07-01,    Germany,24857,region
+2024-07-01,    Italy,6963,region
+2024-07-01,    Netherlands,8570,region
+2024-07-01,    Switzerland,8081,region
+2024-07-01,    Oceania,112662,region
+2024-07-01,    Australia,96688,region
+2024-07-01,    New Zealand,13476,region
+2024-07-01,    Africa,5915,region
+2024-06-01,    Southeast Asia,424112,region
+2024-06-01,    Hong Kong SAR,27183,region
+2024-06-01,    Taiwan,34239,region
+2024-06-01,    Japan,43276,region
+2024-06-01,    India,93055,region
+2024-06-01,    Pakistan,1458,region
+2024-06-01,    Sri Lanka,5540,region
+2024-06-01,    Americas,74119,region
+2024-06-01,    Canada,11706,region
+2024-06-01,    USA,55257,region
+2024-06-01,    Europe,151571,region
+2024-06-01,    United Kingdom,45215,region
+2024-06-01,    France,15215,region
+2024-06-01,    Germany,22463,region
+2024-06-01,    Italy,8047,region
+2024-06-01,    Netherlands,7433,region
+2024-06-01,    Switzerland,7154,region
+2024-06-01,    Oceania,107555,region
+2024-06-01,    Australia,90570,region
+2024-06-01,    New Zealand,12592,region
+2024-06-01,    Africa,6198,region
+2024-05-01,    Southeast Asia,425184,region
+2024-05-01,    Hong Kong SAR,25416,region
+2024-05-01,    Taiwan,31805,region
+2024-05-01,    Japan,49708,region
+2024-05-01,    India,104531,region
+2024-05-01,    Pakistan,1584,region
+2024-05-01,    Sri Lanka,5836,region
+2024-05-01,    Americas,74642,region
+2024-05-01,    Canada,10714,region
+2024-05-01,    USA,57768,region
+2024-05-01,    Europe,158077,region
+2024-05-01,    United Kingdom,52083,region
+2024-05-01,    France,16031,region
+2024-05-01,    Germany,31616,region
+2024-05-01,    Italy,6919,region
+2024-05-01,    Netherlands,8273,region
+2024-05-01,    Switzerland,7623,region
+2024-05-01,    Oceania,116643,region
+2024-05-01,    Australia,89114,region
+2024-05-01,    New Zealand,12835,region
+2024-05-01,    Africa,8112,region
+2024-04-01,    Southeast Asia,444629,region
+2024-04-01,    Hong Kong SAR,22875,region
+2024-04-01,    Taiwan,30190,region
+2024-04-01,    Japan,42564,region
+2024-04-01,    India,101792,region
+2024-04-01,    Pakistan,1913,region
+2024-04-01,    Sri Lanka,4505,region
+2024-04-01,    Americas,77767,region
+2024-04-01,    Canada,12617,region
+2024-04-01,    USA,57898,region
+2024-04-01,    Europe,153905,region
+2024-04-01,    United Kingdom,44277,region
+2024-04-01,    France,16733,region
+2024-04-01,    Germany,28912,region
+2024-04-01,    Italy,7176,region
+2024-04-01,    Netherlands,7984,region
+2024-04-01,    Switzerland,7289,region
+2024-04-01,    Oceania,118802,region
+2024-04-01,    Australia,91235,region
+2024-04-01,    New Zealand,13908,region
+2024-04-01,    Africa,4917,region
+2024-03-01,    Southeast Asia,549475,region
+2024-03-01,    Hong Kong SAR,40061,region
+2024-03-01,    Taiwan,36153,region
+2024-03-01,    Japan,41659,region
+2024-03-01,    India,108535,region
+2024-03-01,    Pakistan,1488,region
+2024-03-01,    Sri Lanka,4907,region
+2024-03-01,    Americas,77449,region
+2024-03-01,    Canada,9592,region
+2024-03-01,    USA,61187,region
+2024-03-01,    Europe,156705,region
+2024-03-01,    United Kingdom,55035,region
+2024-03-01,    France,13735,region
+2024-03-01,    Germany,27329,region
+2024-03-01,    Italy,5405,region
+2024-03-01,    Netherlands,7462,region
+2024-03-01,    Switzerland,7565,region
+2024-03-01,    Oceania,136860,region
+2024-03-01,    Australia,107480,region
+2024-03-01,    New Zealand,13761,region
+2024-03-01,    Africa,6185,region
+2024-02-01,    Southeast Asia,510237,region
+2024-02-01,    Hong Kong SAR,22230,region
+2024-02-01,    Taiwan,35769,region
+2024-02-01,    Japan,47423,region
+2024-02-01,    India,95331,region
+2024-02-01,    Pakistan,2807,region
+2024-02-01,    Sri Lanka,5195,region
+2024-02-01,    Americas,80057,region
+2024-02-01,    Canada,9602,region
+2024-02-01,    USA,61495,region
+2024-02-01,    Europe,162741,region
+2024-02-01,    United Kingdom,53200,region
+2024-02-01,    France,16199,region
+2024-02-01,    Germany,32785,region
+2024-02-01,    Italy,5264,region
+2024-02-01,    Netherlands,7895,region
+2024-02-01,    Switzerland,7294,region
+2024-02-01,    Oceania,128167,region
+2024-02-01,    Australia,103509,region
+2024-02-01,    New Zealand,12641,region
+2024-02-01,    Africa,5345,region
+2024-01-01,    Southeast Asia,547635,region
+2024-01-01,    Hong Kong SAR,36048,region
+2024-01-01,    Taiwan,33972,region
+2024-01-01,    Japan,41357,region
+2024-01-01,    India,99048,region
+2024-01-01,    Pakistan,1595,region
+2024-01-01,    Sri Lanka,7005,region
+2024-01-01,    Americas,72235,region
+2024-01-01,    Canada,10501,region
+2024-01-01,    USA,53832,region
+2024-01-01,    Europe,166635,region
+2024-01-01,    United Kingdom,49667,region
+2024-01-01,    France,15543,region
+2024-01-01,    Germany,31049,region
+2024-01-01,    Italy,5187,region
+2024-01-01,    Netherlands,8142,region
+2024-01-01,    Switzerland,6939,region
+2024-01-01,    Oceania,101977,region
+2024-01-01,    Australia,91385,region
+2024-01-01,    New Zealand,13068,region
+2024-01-01,    Africa,5868,region
+2023-12-01,    Southeast Asia,438780,region
+2023-12-01,    Hong Kong SAR,25420,region
+2023-12-01,    Taiwan,27063,region
+2023-12-01,    Japan,34349,region
+2023-12-01,    India,97513,region
+2023-12-01,    Pakistan,1492,region
+2023-12-01,    Sri Lanka,5155,region
+2023-12-01,    Americas,75183,region
+2023-12-01,    Canada,10733,region
+2023-12-01,    USA,57146,region
+2023-12-01,    Europe,152233,region
+2023-12-01,    United Kingdom,44019,region
+2023-12-01,    France,13665,region
+2023-12-01,    Germany,22267,region
+2023-12-01,    Italy,5618,region
+2023-12-01,    Netherlands,7686,region
+2023-12-01,    Switzerland,6423,region
+2023-12-01,    Oceania,106441,region
+2023-12-01,    Australia,96373,region
+2023-12-01,    New Zealand,12347,region
+2023-12-01,    Africa,5434,region
+2023-11-01,    Southeast Asia,449127,region
+2023-11-01,    Hong Kong SAR,27468,region
+2023-11-01,    Taiwan,30349,region
+2023-11-01,    Japan,36525,region
+2023-11-01,    India,93181,region
+2023-11-01,    Pakistan,1400,region
+2023-11-01,    Sri Lanka,5126,region
+2023-11-01,    Americas,77862,region
+2023-11-01,    Canada,12217,region
+2023-11-01,    USA,58587,region
+2023-11-01,    Europe,148697,region
+2023-11-01,    United Kingdom,42271,region
+2023-11-01,    France,14177,region
+2023-11-01,    Germany,28712,region
+2023-11-01,    Italy,5222,region
+2023-11-01,    Netherlands,7934,region
+2023-11-01,    Switzerland,6958,region
+2023-11-01,    Oceania,106561,region
+2023-11-01,    Australia,99021,region
+2023-11-01,    New Zealand,12257,region
+2023-11-01,    Africa,5256,region
+2023-10-01,    Southeast Asia,442372,region
+2023-10-01,    Hong Kong SAR,30193,region
+2023-10-01,    Taiwan,28890,region
+2023-10-01,    Japan,39060,region
+2023-10-01,    India,94024,region
+2023-10-01,    Pakistan,1391,region
+2023-10-01,    Sri Lanka,4545,region
+2023-10-01,    Americas,69714,region
+2023-10-01,    Canada,10967,region
+2023-10-01,    USA,52316,region
+2023-10-01,    Europe,147682,region
+2023-10-01,    United Kingdom,39797,region
+2023-10-01,    France,14311,region
+2023-10-01,    Germany,26167,region
+2023-10-01,    Italy,5418,region
+2023-10-01,    Netherlands,7986,region
+2023-10-01,    Switzerland,6773,region
+2023-10-01,    Oceania,101668,region
+2023-10-01,    Australia,89766,region
+2023-10-01,    New Zealand,12503,region
+2023-10-01,    Africa,5484,region
+2023-09-01,    Southeast Asia,432680,region
+2023-09-01,    Hong Kong SAR,29199,region
+2023-09-01,    Taiwan,27036,region
+2023-09-01,    Japan,40931,region
+2023-09-01,    India,89713,region
+2023-09-01,    Pakistan,1408,region
+2023-09-01,    Sri Lanka,4991,region
+2023-09-01,    Americas,75179,region
+2023-09-01,    Canada,10852,region
+2023-09-01,    USA,56686,region
+2023-09-01,    Europe,146622,region
+2023-09-01,    United Kingdom,39178,region
+2023-09-01,    France,14082,region
+2023-09-01,    Germany,26442,region
+2023-09-01,    Italy,5956,region
+2023-09-01,    Netherlands,7909,region
+2023-09-01,    Switzerland,6822,region
+2023-09-01,    Oceania,105590,region
+2023-09-01,    Australia,93104,region
+2023-09-01,    New Zealand,12019,region
+2023-09-01,    Africa,5420,region
+2023-08-01,    Southeast Asia,448259,region
+2023-08-01,    Hong Kong SAR,26991,region
+2023-08-01,    Taiwan,32351,region
+2023-08-01,    Japan,48885,region
+2023-08-01,    India,91187,region
+2023-08-01,    Pakistan,1119,region
+2023-08-01,    Sri Lanka,4858,region
+2023-08-01,    Americas,72417,region
+2023-08-01,    Canada,10761,region
+2023-08-01,    USA,54253,region
+2023-08-01,    Europe,146323,region
+2023-08-01,    United Kingdom,41377,region
+2023-08-01,    France,14277,region
+2023-08-01,    Germany,25961,region
+2023-08-01,    Italy,8185,region
+2023-08-01,    Netherlands,7546,region
+2023-08-01,    Switzerland,6543,region
+2023-08-01,    Oceania,104126,region
+2023-08-01,    Australia,93974,region
+2023-08-01,    New Zealand,11726,region
+2023-08-01,    Africa,5469,region
+2023-07-01,    Southeast Asia,453152,region
+2023-07-01,    Hong Kong SAR,20691,region
+2023-07-01,    Taiwan,31551,region
+2023-07-01,    Japan,46635,region
+2023-07-01,    India,92952,region
+2023-07-01,    Pakistan,1352,region
+2023-07-01,    Sri Lanka,4884,region
+2023-07-01,    Americas,74066,region
+2023-07-01,    Canada,10981,region
+2023-07-01,    USA,54788,region
+2023-07-01,    Europe,140917,region
+2023-07-01,    United Kingdom,42593,region
+2023-07-01,    France,14522,region
+2023-07-01,    Germany,24626,region
+2023-07-01,    Italy,6182,region
+2023-07-01,    Netherlands,7573,region
+2023-07-01,    Switzerland,6702,region
+2023-07-01,    Oceania,103499,region
+2023-07-01,    Australia,90226,region
+2023-07-01,    New Zealand,11205,region
+2023-07-01,    Africa,5758,region
+2023-06-01,    Southeast Asia,449959,region
+2023-06-01,    Hong Kong SAR,26234,region
+2023-06-01,    Taiwan,29127,region
+2023-06-01,    Japan,32262,region
+2023-06-01,    India,88733,region
+2023-06-01,    Pakistan,1241,region
+2023-06-01,    Sri Lanka,4803,region
+2023-06-01,    Americas,68505,region
+2023-06-01,    Canada,9781,region
+2023-06-01,    USA,53139,region
+2023-06-01,    Europe,134665,region
+2023-06-01,    United Kingdom,37952,region
+2023-06-01,    France,13474,region
+2023-06-01,    Germany,24224,region
+2023-06-01,    Italy,5576,region
+2023-06-01,    Netherlands,7368,region
+2023-06-01,    Switzerland,6356,region
+2023-06-01,    Oceania,110529,region
+2023-06-01,    Australia,93324,region
+2023-06-01,    New Zealand,11915,region
+2023-06-01,    Africa,5247,region
+2023-05-01,    Southeast Asia,451214,region
+2023-05-01,    Hong Kong SAR,27963,region
+2023-05-01,    Taiwan,27195,region
+2023-05-01,    Japan,37194,region
+2023-05-01,    India,86966,region
+2023-05-01,    Pakistan,1496,region
+2023-05-01,    Sri Lanka,4334,region
+2023-05-01,    Americas,72130,region
+2023-05-01,    Canada,12182,region
+2023-05-01,    USA,54243,region
+2023-05-01,    Europe,143574,region
+2023-05-01,    United Kingdom,47910,region
+2023-05-01,    France,14503,region
+2023-05-01,    Germany,29440,region
+2023-05-01,    Italy,6380,region
+2023-05-01,    Netherlands,7327,region
+2023-05-01,    Switzerland,6455,region
+2023-05-01,    Oceania,115111,region
+2023-05-01,    Australia,89625,region
+2023-05-01,    New Zealand,11113,region
+2023-05-01,    Africa,5263,region
+2023-04-01,    Southeast Asia,430029,region
+2023-04-01,    Hong Kong SAR,28586,region
+2023-04-01,    Taiwan,25068,region
+2023-04-01,    Japan,28964,region
+2023-04-01,    India,92694,region
+2023-04-01,    Pakistan,1485,region
+2023-04-01,    Sri Lanka,3547,region
+2023-04-01,    Americas,68507,region
+2023-04-01,    Canada,10501,region
+2023-04-01,    USA,51852,region
+2023-04-01,    Europe,131051,region
+2023-04-01,    United Kingdom,38789,region
+2023-04-01,    France,13166,region
+2023-04-01,    Germany,25090,region
+2023-04-01,    Italy,5809,region
+2023-04-01,    Netherlands,7057,region
+2023-04-01,    Switzerland,6497,region
+2023-04-01,    Oceania,112046,region
+2023-04-01,    Australia,87348,region
+2023-04-01,    New Zealand,11395,region
+2023-04-01,    Africa,5317,region
+2023-03-01,    Southeast Asia,427085,region
+2023-03-01,    Hong Kong SAR,26355,region
+2023-03-01,    Taiwan,22572,region
+2023-03-01,    Japan,27450,region
+2023-03-01,    India,84279,region
+2023-03-01,    Pakistan,1722,region
+2023-03-01,    Sri Lanka,4540,region
+2023-03-01,    Americas,66393,region
+2023-03-01,    Canada,9694,region
+2023-03-01,    USA,51343,region
+2023-03-01,    Europe,129475,region
+2023-03-01,    United Kingdom,37744,region
+2023-03-01,    France,12602,region
+2023-03-01,    Germany,24420,region
+2023-03-01,    Italy,5066,region
+2023-03-01,    Netherlands,7524,region
+2023-03-01,    Switzerland,5784,region
+2023-03-01,    Oceania,111502,region
+2023-03-01,    Australia,88772,region
+2023-03-01,    New Zealand,10752,region
+2023-03-01,    Africa,4977,region
+2023-02-01,    Southeast Asia,449585,region
+2023-02-01,    Hong Kong SAR,27610,region
+2023-02-01,    Taiwan,22985,region
+2023-02-01,    Japan,31614,region
+2023-02-01,    India,81106,region
+2023-02-01,    Pakistan,2293,region
+2023-02-01,    Sri Lanka,4446,region
+2023-02-01,    Americas,68055,region
+2023-02-01,    Canada,9991,region
+2023-02-01,    USA,51543,region
+2023-02-01,    Europe,125704,region
+2023-02-01,    United Kingdom,35832,region
+2023-02-01,    France,12963,region
+2023-02-01,    Germany,25343,region
+2023-02-01,    Italy,4744,region
+2023-02-01,    Netherlands,7727,region
+2023-02-01,    Switzerland,5802,region
+2023-02-01,    Oceania,116956,region
+2023-02-01,    Australia,95711,region
+2023-02-01,    New Zealand,10878,region
+2023-02-01,    Africa,4886,region
+2023-01-01,    Southeast Asia,403088,region
+2023-01-01,    Hong Kong SAR,24747,region
+2023-01-01,    Taiwan,23632,region
+2023-01-01,    Japan,22074,region
+2023-01-01,    India,73554,region
+2023-01-01,    Pakistan,1933,region
+2023-01-01,    Sri Lanka,4217,region
+2023-01-01,    Americas,61242,region
+2023-01-01,    Canada,9062,region
+2023-01-01,    USA,45704,region
+2023-01-01,    Europe,117876,region
+2023-01-01,    United Kingdom,31865,region
+2023-01-01,    France,11725,region
+2023-01-01,    Germany,21822,region
+2023-01-01,    Italy,3999,region
+2023-01-01,    Netherlands,6789,region
+2023-01-01,    Switzerland,4681,region
+2023-01-01,    Oceania,83104,region
+2023-01-01,    Australia,74813,region
+2023-01-01,    New Zealand,9818,region
+2023-01-01,    Africa,4476,region
+2022-12-01,    Southeast Asia,385926,region
+2022-12-01,    Hong Kong SAR,25461,region
+2022-12-01,    Taiwan,19608,region
+2022-12-01,    Japan,21518,region
+2022-12-01,    India,77637,region
+2022-12-01,    Pakistan,1485,region
+2022-12-01,    Sri Lanka,3676,region
+2022-12-01,    Americas,59895,region
+2022-12-01,    Canada,8636,region
+2022-12-01,    USA,46251,region
+2022-12-01,    Europe,113912,region
+2022-12-01,    United Kingdom,31529,region
+2022-12-01,    France,11605,region
+2022-12-01,    Germany,17752,region
+2022-12-01,    Italy,3535,region
+2022-12-01,    Netherlands,6390,region
+2022-12-01,    Switzerland,4239,region
+2022-12-01,    Oceania,83702,region
+2022-12-01,    Australia,76027,region
+2022-12-01,    New Zealand,9052,region
+2022-12-01,    Africa,3866,region
+2022-11-01,    Southeast Asia,383799,region
+2022-11-01,    Hong Kong SAR,23913,region
+2022-11-01,    Taiwan,17683,region
+2022-11-01,    Japan,20115,region
+2022-11-01,    India,75924,region
+2022-11-01,    Pakistan,1676,region
+2022-11-01,    Sri Lanka,3943,region
+2022-11-01,    Americas,59810,region
+2022-11-01,    Canada,9026,region
+2022-11-01,    USA,45644,region
+2022-11-01,    Europe,114954,region
+2022-11-01,    United Kingdom,32784,region
+2022-11-01,    France,12495,region
+2022-11-01,    Germany,19805,region
+2022-11-01,    Italy,4783,region
+2022-11-01,    Netherlands,6479,region
+2022-11-01,    Switzerland,5199,region
+2022-11-01,    Oceania,83860,region
+2022-11-01,    Australia,78030,region
+2022-11-01,    New Zealand,9192,region
+2022-11-01,    Africa,4488,region
+2022-10-01,    Southeast Asia,380946,region
+2022-10-01,    Hong Kong SAR,19423,region
+2022-10-01,    Taiwan,10805,region
+2022-10-01,    Japan,17858,region
+2022-10-01,    India,81694,region
+2022-10-01,    Pakistan,1427,region
+2022-10-01,    Sri Lanka,4755,region
+2022-10-01,    Americas,56881,region
+2022-10-01,    Canada,8844,region
+2022-10-01,    USA,43320,region
+2022-10-01,    Europe,114284,region
+2022-10-01,    United Kingdom,33068,region
+2022-10-01,    France,11676,region
+2022-10-01,    Germany,19212,region
+2022-10-01,    Italy,4941,region
+2022-10-01,    Netherlands,7127,region
+2022-10-01,    Switzerland,5224,region
+2022-10-01,    Oceania,82503,region
+2022-10-01,    Australia,74483,region
+2022-10-01,    New Zealand,8240,region
+2022-10-01,    Africa,3927,region
+2022-09-01,    Southeast Asia,363518,region
+2022-09-01,    Hong Kong SAR,15409,region
+2022-09-01,    Taiwan,8240,region
+2022-09-01,    Japan,17264,region
+2022-09-01,    India,96029,region
+2022-09-01,    Pakistan,1254,region
+2022-09-01,    Sri Lanka,4359,region
+2022-09-01,    Americas,56264,region
+2022-09-01,    Canada,8605,region
+2022-09-01,    USA,42208,region
+2022-09-01,    Europe,108499,region
+2022-09-01,    United Kingdom,30239,region
+2022-09-01,    France,10675,region
+2022-09-01,    Germany,18763,region
+2022-09-01,    Italy,4629,region
+2022-09-01,    Netherlands,6356,region
+2022-09-01,    Switzerland,4746,region
+2022-09-01,    Oceania,81073,region
+2022-09-01,    Australia,74166,region
+2022-09-01,    New Zealand,7296,region
+2022-09-01,    Africa,3589,region
+2022-08-01,    Southeast Asia,330833,region
+2022-08-01,    Hong Kong SAR,8712,region
+2022-08-01,    Taiwan,6272,region
+2022-08-01,    Japan,13730,region
+2022-08-01,    India,83717,region
+2022-08-01,    Pakistan,1093,region
+2022-08-01,    Sri Lanka,3382,region
+2022-08-01,    Americas,50992,region
+2022-08-01,    Canada,6642,region
+2022-08-01,    USA,38776,region
+2022-08-01,    Europe,93221,region
+2022-08-01,    United Kingdom,27432,region
+2022-08-01,    France,9688,region
+2022-08-01,    Germany,17918,region
+2022-08-01,    Italy,3822,region
+2022-08-01,    Netherlands,5378,region
+2022-08-01,    Switzerland,4461,region
+2022-08-01,    Oceania,71266,region
+2022-08-01,    Australia,66414,region
+2022-08-01,    New Zealand,6575,region
+2022-08-01,    Africa,2583,region
+2022-07-01,    Southeast Asia,290686,region
+2022-07-01,    Hong Kong SAR,7325,region
+2022-07-01,    Taiwan,4441,region
+2022-07-01,    Japan,13291,region
+2022-07-01,    India,75429,region
+2022-07-01,    Pakistan,711,region
+2022-07-01,    Sri Lanka,3287,region
+2022-07-01,    Americas,43272,region
+2022-07-01,    Canada,5944,region
+2022-07-01,    USA,33188,region
+2022-07-01,    Europe,81949,region
+2022-07-01,    United Kingdom,26143,region
+2022-07-01,    France,8482,region
+2022-07-01,    Germany,14384,region
+2022-07-01,    Italy,3009,region
+2022-07-01,    Netherlands,4970,region
+2022-07-01,    Switzerland,3755,region
+2022-07-01,    Oceania,68471,region
+2022-07-01,    Australia,62752,region
+2022-07-01,    New Zealand,5224,region
+2022-07-01,    Africa,2528,region
+2022-06-01,    Southeast Asia,257259,region
+2022-06-01,    Hong Kong SAR,10320,region
+2022-06-01,    Taiwan,3336,region
+2022-06-01,    Japan,10649,region
+2022-06-01,    India,49987,region
+2022-06-01,    Pakistan,710,region
+2022-06-01,    Sri Lanka,2969,region
+2022-06-01,    Americas,35685,region
+2022-06-01,    Canada,5372,region
+2022-06-01,    USA,27910,region
+2022-06-01,    Europe,73808,region
+2022-06-01,    United Kingdom,23183,region
+2022-06-01,    France,7726,region
+2022-06-01,    Germany,14460,region
+2022-06-01,    Italy,2690,region
+2022-06-01,    Netherlands,4666,region
+2022-06-01,    Switzerland,3471,region
+2022-06-01,    Oceania,57253,region
+2022-06-01,    Australia,52012,region
+2022-06-01,    New Zealand,3448,region
+2022-06-01,    Africa,2502,region
+2022-05-01,    Southeast Asia,177118,region
+2022-05-01,    Hong Kong SAR,8634,region
+2022-05-01,    Taiwan,2233,region
+2022-05-01,    Japan,8113,region
+2022-05-01,    India,40452,region
+2022-05-01,    Pakistan,584,region
+2022-05-01,    Sri Lanka,2824,region
+2022-05-01,    Americas,26081,region
+2022-05-01,    Canada,3545,region
+2022-05-01,    USA,21311,region
+2022-05-01,    Europe,54074,region
+2022-05-01,    United Kingdom,19779,region
+2022-05-01,    France,5497,region
+2022-05-01,    Germany,9432,region
+2022-05-01,    Italy,2163,region
+2022-05-01,    Netherlands,3755,region
+2022-05-01,    Switzerland,2610,region
+2022-05-01,    Oceania,43091,region
+2022-05-01,    Australia,35557,region
+2022-05-01,    New Zealand,3092,region
+2022-05-01,    Africa,1541,region
+2022-04-01,    Southeast Asia,138460,region
+2022-04-01,    Hong Kong SAR,6359,region
+2022-04-01,    Taiwan,1043,region
+2022-04-01,    Japan,5661,region
+2022-04-01,    India,38335,region
+2022-04-01,    Pakistan,299,region
+2022-04-01,    Sri Lanka,2110,region
+2022-04-01,    Americas,16375,region
+2022-04-01,    Canada,2222,region
+2022-04-01,    USA,13766,region
+2022-04-01,    Europe,32203,region
+2022-04-01,    United Kingdom,10066,region
+2022-04-01,    France,3706,region
+2022-04-01,    Germany,5556,region
+2022-04-01,    Italy,1260,region
+2022-04-01,    Netherlands,2612,region
+2022-04-01,    Switzerland,1673,region
+2022-04-01,    Oceania,30321,region
+2022-04-01,    Australia,25546,region
+2022-04-01,    New Zealand,1490,region
+2022-04-01,    Africa,891,region
+2022-03-01,    Southeast Asia,42244,region
+2022-03-01,    Hong Kong SAR,4259,region
+2022-03-01,    Taiwan,690,region
+2022-03-01,    Japan,655,region
+2022-03-01,    India,30764,region
+2022-03-01,    Pakistan,86,region
+2022-03-01,    Sri Lanka,1708,region
+2022-03-01,    Americas,5819,region
+2022-03-01,    Canada,664,region
+2022-03-01,    USA,5133,region
+2022-03-01,    Europe,11715,region
+2022-03-01,    United Kingdom,4120,region
+2022-03-01,    France,1704,region
+2022-03-01,    Germany,1713,region
+2022-03-01,    Italy,483,region
+2022-03-01,    Netherlands,1016,region
+2022-03-01,    Switzerland,699,region
+2022-03-01,    Oceania,10693,region
+2022-03-01,    Australia,9428,region
+2022-03-01,    New Zealand,254,region
+2022-03-01,    Africa,150,region
+2022-02-01,    Southeast Asia,22316,region
+2022-02-01,    Hong Kong SAR,1555,region
+2022-02-01,    Taiwan,412,region
+2022-02-01,    Japan,562,region
+2022-02-01,    India,22184,region
+2022-02-01,    Pakistan,46,region
+2022-02-01,    Sri Lanka,1121,region
+2022-02-01,    Americas,4416,region
+2022-02-01,    Canada,409,region
+2022-02-01,    USA,3695,region
+2022-02-01,    Europe,8693,region
+2022-02-01,    United Kingdom,2949,region
+2022-02-01,    France,1665,region
+2022-02-01,    Germany,1413,region
+2022-02-01,    Italy,368,region
+2022-02-01,    Netherlands,793,region
+2022-02-01,    Switzerland,533,region
+2022-02-01,    Oceania,6717,region
+2022-02-01,    Australia,6011,region
+2022-02-01,    New Zealand,128,region
+2022-02-01,    Africa,78,region
+2022-01-01,    Southeast Asia,19502,region
+2022-01-01,    Hong Kong SAR,1336,region
+2022-01-01,    Taiwan,381,region
+2022-01-01,    Japan,608,region
+2022-01-01,    India,13507,region
+2022-01-01,    Pakistan,76,region
+2022-01-01,    Sri Lanka,557,region
+2022-01-01,    Americas,2464,region
+2022-01-01,    Canada,374,region
+2022-01-01,    USA,2030,region
+2022-01-01,    Europe,6063,region
+2022-01-01,    United Kingdom,1989,region
+2022-01-01,    France,1251,region
+2022-01-01,    Germany,909,region
+2022-01-01,    Italy,185,region
+2022-01-01,    Netherlands,496,region
+2022-01-01,    Switzerland,345,region
+2022-01-01,    Oceania,2771,region
+2022-01-01,    Australia,2756,region
+2022-01-01,    New Zealand,77,region
+2022-01-01,    Africa,109,region
+2021-12-01,    Southeast Asia,26114,region
+2021-12-01,    Hong Kong SAR,721,region
+2021-12-01,    Taiwan,607,region
+2021-12-01,    Japan,615,region
+2021-12-01,    India,28875,region
+2021-12-01,    Pakistan,53,region
+2021-12-01,    Sri Lanka,507,region
+2021-12-01,    Americas,4043,region
+2021-12-01,    Canada,689,region
+2021-12-01,    USA,3190,region
+2021-12-01,    Europe,10388,region
+2021-12-01,    United Kingdom,3528,region
+2021-12-01,    France,1609,region
+2021-12-01,    Germany,1365,region
+2021-12-01,    Italy,382,region
+2021-12-01,    Netherlands,810,region
+2021-12-01,    Switzerland,483,region
+2021-12-01,    Oceania,4684,region
+2021-12-01,    Australia,4692,region
+2021-12-01,    New Zealand,62,region
+2021-12-01,    Africa,45,region
+2021-11-01,    Southeast Asia,13805,region
+2021-11-01,    Hong Kong SAR,640,region
+2021-11-01,    Taiwan,392,region
+2021-11-01,    Japan,385,region
+2021-11-01,    India,7678,region
+2021-11-01,    Pakistan,38,region
+2021-11-01,    Sri Lanka,152,region
+2021-11-01,    Americas,2199,region
+2021-11-01,    Canada,217,region
+2021-11-01,    USA,1893,region
+2021-11-01,    Europe,5943,region
+2021-11-01,    United Kingdom,2109,region
+2021-11-01,    France,940,region
+2021-11-01,    Germany,1166,region
+2021-11-01,    Italy,306,region
+2021-11-01,    Netherlands,472,region
+2021-11-01,    Switzerland,237,region
+2021-11-01,    Oceania,1806,region
+2021-11-01,    Australia,1858,region
+2021-11-01,    New Zealand,33,region
+2021-11-01,    Africa,83,region
+2021-10-01,    Southeast Asia,6541,region
+2021-10-01,    Hong Kong SAR,600,region
+2021-10-01,    Taiwan,394,region
+2021-10-01,    Japan,793,region
+2021-10-01,    India,2950,region
+2021-10-01,    Pakistan,6,region
+2021-10-01,    Sri Lanka,19,region
+2021-10-01,    Americas,1240,region
+2021-10-01,    Canada,150,region
+2021-10-01,    USA,988,region
+2021-10-01,    Europe,3820,region
+2021-10-01,    United Kingdom,1044,region
+2021-10-01,    France,463,region
+2021-10-01,    Germany,1048,region
+2021-10-01,    Italy,131,region
+2021-10-01,    Netherlands,228,region
+2021-10-01,    Switzerland,74,region
+2021-10-01,    Oceania,320,region
+2021-10-01,    Australia,263,region
+2021-10-01,    New Zealand,55,region
+2021-10-01,    Africa,75,region
+2021-09-01,    Southeast Asia,2960,region
+2021-09-01,    Hong Kong SAR,756,region
+2021-09-01,    Taiwan,460,region
+2021-09-01,    Japan,701,region
+2021-09-01,    India,758,region
+2021-09-01,    Pakistan,6,region
+2021-09-01,    Sri Lanka,15,region
+2021-09-01,    Americas,1071,region
+2021-09-01,    Canada,185,region
+2021-09-01,    USA,805,region
+2021-09-01,    Europe,2467,region
+2021-09-01,    United Kingdom,394,region
+2021-09-01,    France,359,region
+2021-09-01,    Germany,812,region
+2021-09-01,    Italy,66,region
+2021-09-01,    Netherlands,111,region
+2021-09-01,    Switzerland,77,region
+2021-09-01,    Oceania,317,region
+2021-09-01,    Australia,248,region
+2021-09-01,    New Zealand,62,region
+2021-09-01,    Africa,42,region
+2021-08-01,    Southeast Asia,2037,region
+2021-08-01,    Hong Kong SAR,478,region
+2021-08-01,    Taiwan,385,region
+2021-08-01,    Japan,245,region
+2021-08-01,    India,105,region
+2021-08-01,    Pakistan,3,region
+2021-08-01,    Sri Lanka,5,region
+2021-08-01,    Americas,1166,region
+2021-08-01,    Canada,78,region
+2021-08-01,    USA,936,region
+2021-08-01,    Europe,1284,region
+2021-08-01,    United Kingdom,366,region
+2021-08-01,    France,191,region
+2021-08-01,    Germany,147,region
+2021-08-01,    Italy,22,region
+2021-08-01,    Netherlands,35,region
+2021-08-01,    Switzerland,111,region
+2021-08-01,    Oceania,402,region
+2021-08-01,    Australia,351,region
+2021-08-01,    New Zealand,47,region
+2021-08-01,    Africa,48,region
+2021-07-01,    Southeast Asia,1736,region
+2021-07-01,    Hong Kong SAR,492,region
+2021-07-01,    Taiwan,57,region
+2021-07-01,    Japan,318,region
+2021-07-01,    India,336,region
+2021-07-01,    Pakistan,1,region
+2021-07-01,    Sri Lanka,2,region
+2021-07-01,    Americas,716,region
+2021-07-01,    Canada,60,region
+2021-07-01,    USA,585,region
+2021-07-01,    Europe,868,region
+2021-07-01,    United Kingdom,339,region
+2021-07-01,    France,78,region
+2021-07-01,    Germany,176,region
+2021-07-01,    Italy,30,region
+2021-07-01,    Netherlands,24,region
+2021-07-01,    Switzerland,34,region
+2021-07-01,    Oceania,320,region
+2021-07-01,    Australia,264,region
+2021-07-01,    New Zealand,53,region
+2021-07-01,    Africa,31,region
+2021-06-01,    Southeast Asia,1510,region
+2021-06-01,    Hong Kong SAR,397,region
+2021-06-01,    Taiwan,30,region
+2021-06-01,    Japan,154,region
+2021-06-01,    India,9,region
+2021-06-01,    Pakistan,0,region
+2021-06-01,    Sri Lanka,2,region
+2021-06-01,    Americas,238,region
+2021-06-01,    Canada,21,region
+2021-06-01,    USA,186,region
+2021-06-01,    Europe,438,region
+2021-06-01,    United Kingdom,155,region
+2021-06-01,    France,37,region
+2021-06-01,    Germany,70,region
+2021-06-01,    Italy,13,region
+2021-06-01,    Netherlands,27,region
+2021-06-01,    Switzerland,19,region
+2021-06-01,    Oceania,260,region
+2021-06-01,    Australia,200,region
+2021-06-01,    New Zealand,51,region
+2021-06-01,    Africa,9,region
+2021-05-01,    Southeast Asia,3904,region
+2021-05-01,    Hong Kong SAR,295,region
+2021-05-01,    Taiwan,207,region
+2021-05-01,    Japan,361,region
+2021-05-01,    India,57,region
+2021-05-01,    Pakistan,0,region
+2021-05-01,    Sri Lanka,5,region
+2021-05-01,    Americas,363,region
+2021-05-01,    Canada,27,region
+2021-05-01,    USA,279,region
+2021-05-01,    Europe,649,region
+2021-05-01,    United Kingdom,141,region
+2021-05-01,    France,92,region
+2021-05-01,    Germany,79,region
+2021-05-01,    Italy,26,region
+2021-05-01,    Netherlands,41,region
+2021-05-01,    Switzerland,28,region
+2021-05-01,    Oceania,358,region
+2021-05-01,    Australia,286,region
+2021-05-01,    New Zealand,32,region
+2021-05-01,    Africa,57,region
+2021-04-01,    Southeast Asia,7291,region
+2021-04-01,    Hong Kong SAR,196,region
+2021-04-01,    Taiwan,297,region
+2021-04-01,    Japan,1034,region
+2021-04-01,    India,3514,region
+2021-04-01,    Pakistan,21,region
+2021-04-01,    Sri Lanka,118,region
+2021-04-01,    Americas,750,region
+2021-04-01,    Canada,55,region
+2021-04-01,    USA,636,region
+2021-04-01,    Europe,993,region
+2021-04-01,    United Kingdom,126,region
+2021-04-01,    France,171,region
+2021-04-01,    Germany,118,region
+2021-04-01,    Italy,77,region
+2021-04-01,    Netherlands,85,region
+2021-04-01,    Switzerland,44,region
+2021-04-01,    Oceania,296,region
+2021-04-01,    Australia,224,region
+2021-04-01,    New Zealand,41,region
+2021-04-01,    Africa,35,region
+2021-03-01,    Southeast Asia,7420,region
+2021-03-01,    Hong Kong SAR,276,region
+2021-03-01,    Taiwan,360,region
+2021-03-01,    Japan,453,region
+2021-03-01,    India,4690,region
+2021-03-01,    Pakistan,46,region
+2021-03-01,    Sri Lanka,269,region
+2021-03-01,    Americas,511,region
+2021-03-01,    Canada,58,region
+2021-03-01,    USA,393,region
+2021-03-01,    Europe,870,region
+2021-03-01,    United Kingdom,124,region
+2021-03-01,    France,141,region
+2021-03-01,    Germany,96,region
+2021-03-01,    Italy,77,region
+2021-03-01,    Netherlands,63,region
+2021-03-01,    Switzerland,51,region
+2021-03-01,    Oceania,410,region
+2021-03-01,    Australia,322,region
+2021-03-01,    New Zealand,43,region
+2021-03-01,    Africa,42,region
+2021-02-01,    Southeast Asia,6807,region
+2021-02-01,    Hong Kong SAR,220,region
+2021-02-01,    Taiwan,178,region
+2021-02-01,    Japan,377,region
+2021-02-01,    India,4542,region
+2021-02-01,    Pakistan,23,region
+2021-02-01,    Sri Lanka,136,region
+2021-02-01,    Americas,519,region
+2021-02-01,    Canada,58,region
+2021-02-01,    USA,401,region
+2021-02-01,    Europe,936,region
+2021-02-01,    United Kingdom,115,region
+2021-02-01,    France,192,region
+2021-02-01,    Germany,124,region
+2021-02-01,    Italy,75,region
+2021-02-01,    Netherlands,110,region
+2021-02-01,    Switzerland,72,region
+2021-02-01,    Oceania,391,region
+2021-02-01,    Australia,318,region
+2021-02-01,    New Zealand,51,region
+2021-02-01,    Africa,47,region
+2021-01-01,    Southeast Asia,7463,region
+2021-01-01,    Hong Kong SAR,412,region
+2021-01-01,    Taiwan,291,region
+2021-01-01,    Japan,611,region
+2021-01-01,    India,4592,region
+2021-01-01,    Pakistan,28,region
+2021-01-01,    Sri Lanka,217,region
+2021-01-01,    Americas,557,region
+2021-01-01,    Canada,68,region
+2021-01-01,    USA,428,region
+2021-01-01,    Europe,1407,region
+2021-01-01,    United Kingdom,94,region
+2021-01-01,    France,452,region
+2021-01-01,    Germany,145,region
+2021-01-01,    Italy,161,region
+2021-01-01,    Netherlands,110,region
+2021-01-01,    Switzerland,47,region
+2021-01-01,    Oceania,463,region
+2021-01-01,    Australia,425,region
+2021-01-01,    New Zealand,55,region
+2021-01-01,    Africa,40,region
+2020-12-01,    Southeast Asia,7575,region
+2020-12-01,    Hong Kong SAR,492,region
+2020-12-01,    Taiwan,377,region
+2020-12-01,    Japan,756,region
+2020-12-01,    India,2338,region
+2020-12-01,    Pakistan,33,region
+2020-12-01,    Sri Lanka,77,region
+2020-12-01,    Americas,574,region
+2020-12-01,    Canada,64,region
+2020-12-01,    USA,442,region
+2020-12-01,    Europe,1310,region
+2020-12-01,    United Kingdom,282,region
+2020-12-01,    France,222,region
+2020-12-01,    Germany,146,region
+2020-12-01,    Italy,68,region
+2020-12-01,    Netherlands,100,region
+2020-12-01,    Switzerland,59,region
+2020-12-01,    Oceania,837,region
+2020-12-01,    Australia,750,region
+2020-12-01,    New Zealand,105,region
+2020-12-01,    Africa,37,region
+2020-11-01,    Southeast Asia,6850,region
+2020-11-01,    Hong Kong SAR,376,region
+2020-11-01,    Taiwan,203,region
+2020-11-01,    Japan,694,region
+2020-11-01,    India,511,region
+2020-11-01,    Pakistan,20,region
+2020-11-01,    Sri Lanka,46,region
+2020-11-01,    Americas,517,region
+2020-11-01,    Canada,59,region
+2020-11-01,    USA,415,region
+2020-11-01,    Europe,995,region
+2020-11-01,    United Kingdom,269,region
+2020-11-01,    France,142,region
+2020-11-01,    Germany,123,region
+2020-11-01,    Italy,48,region
+2020-11-01,    Netherlands,82,region
+2020-11-01,    Switzerland,49,region
+2020-11-01,    Oceania,529,region
+2020-11-01,    Australia,505,region
+2020-11-01,    New Zealand,49,region
+2020-11-01,    Africa,41,region
+2020-10-01,    Southeast Asia,6477,region
+2020-10-01,    Hong Kong SAR,363,region
+2020-10-01,    Taiwan,162,region
+2020-10-01,    Japan,517,region
+2020-10-01,    India,432,region
+2020-10-01,    Pakistan,29,region
+2020-10-01,    Sri Lanka,34,region
+2020-10-01,    Americas,573,region
+2020-10-01,    Canada,59,region
+2020-10-01,    USA,478,region
+2020-10-01,    Europe,1183,region
+2020-10-01,    United Kingdom,220,region
+2020-10-01,    France,233,region
+2020-10-01,    Germany,126,region
+2020-10-01,    Italy,90,region
+2020-10-01,    Netherlands,84,region
+2020-10-01,    Switzerland,72,region
+2020-10-01,    Oceania,280,region
+2020-10-01,    Australia,221,region
+2020-10-01,    New Zealand,61,region
+2020-10-01,    Africa,52,region
+2020-09-01,    Southeast Asia,4040,region
+2020-09-01,    Hong Kong SAR,330,region
+2020-09-01,    Taiwan,134,region
+2020-09-01,    Japan,320,region
+2020-09-01,    India,444,region
+2020-09-01,    Pakistan,24,region
+2020-09-01,    Sri Lanka,32,region
+2020-09-01,    Americas,558,region
+2020-09-01,    Canada,61,region
+2020-09-01,    USA,444,region
+2020-09-01,    Europe,1104,region
+2020-09-01,    United Kingdom,255,region
+2020-09-01,    France,208,region
+2020-09-01,    Germany,83,region
+2020-09-01,    Italy,39,region
+2020-09-01,    Netherlands,40,region
+2020-09-01,    Switzerland,49,region
+2020-09-01,    Oceania,193,region
+2020-09-01,    Australia,138,region
+2020-09-01,    New Zealand,52,region
+2020-09-01,    Africa,40,region
+2020-08-01,    Southeast Asia,3005,region
+2020-08-01,    Hong Kong SAR,263,region
+2020-08-01,    Taiwan,94,region
+2020-08-01,    Japan,366,region
+2020-08-01,    India,653,region
+2020-08-01,    Pakistan,33,region
+2020-08-01,    Sri Lanka,30,region
+2020-08-01,    Americas,593,region
+2020-08-01,    Canada,42,region
+2020-08-01,    USA,455,region
+2020-08-01,    Europe,908,region
+2020-08-01,    United Kingdom,239,region
+2020-08-01,    France,142,region
+2020-08-01,    Germany,142,region
+2020-08-01,    Italy,15,region
+2020-08-01,    Netherlands,27,region
+2020-08-01,    Switzerland,50,region
+2020-08-01,    Oceania,198,region
+2020-08-01,    Australia,194,region
+2020-08-01,    New Zealand,11,region
+2020-08-01,    Africa,49,region
+2020-07-01,    Southeast Asia,2061,region
+2020-07-01,    Hong Kong SAR,224,region
+2020-07-01,    Taiwan,81,region
+2020-07-01,    Japan,596,region
+2020-07-01,    India,647,region
+2020-07-01,    Pakistan,12,region
+2020-07-01,    Sri Lanka,19,region
+2020-07-01,    Americas,411,region
+2020-07-01,    Canada,56,region
+2020-07-01,    USA,310,region
+2020-07-01,    Europe,848,region
+2020-07-01,    United Kingdom,324,region
+2020-07-01,    France,72,region
+2020-07-01,    Germany,88,region
+2020-07-01,    Italy,43,region
+2020-07-01,    Netherlands,32,region
+2020-07-01,    Switzerland,38,region
+2020-07-01,    Oceania,139,region
+2020-07-01,    Australia,119,region
+2020-07-01,    New Zealand,19,region
+2020-07-01,    Africa,19,region
+2020-06-01,    Southeast Asia,1078,region
+2020-06-01,    Hong Kong SAR,74,region
+2020-06-01,    Taiwan,35,region
+2020-06-01,    Japan,174,region
+2020-06-01,    India,101,region
+2020-06-01,    Pakistan,2,region
+2020-06-01,    Sri Lanka,3,region
+2020-06-01,    Americas,149,region
+2020-06-01,    Canada,15,region
+2020-06-01,    USA,118,region
+2020-06-01,    Europe,412,region
+2020-06-01,    United Kingdom,119,region
+2020-06-01,    France,31,region
+2020-06-01,    Germany,32,region
+2020-06-01,    Italy,13,region
+2020-06-01,    Netherlands,14,region
+2020-06-01,    Switzerland,20,region
+2020-06-01,    Oceania,69,region
+2020-06-01,    Australia,66,region
+2020-06-01,    New Zealand,3,region
+2020-06-01,    Africa,10,region
+2020-05-01,    Southeast Asia,503,region
+2020-05-01,    Hong Kong SAR,2,region
+2020-05-01,    Taiwan,5,region
+2020-05-01,    Japan,38,region
+2020-05-01,    India,53,region
+2020-05-01,    Pakistan,2,region
+2020-05-01,    Sri Lanka,5,region
+2020-05-01,    Americas,41,region
+2020-05-01,    Canada,0,region
+2020-05-01,    USA,38,region
+2020-05-01,    Europe,121,region
+2020-05-01,    United Kingdom,26,region
+2020-05-01,    France,2,region
+2020-05-01,    Germany,10,region
+2020-05-01,    Italy,3,region
+2020-05-01,    Netherlands,0,region
+2020-05-01,    Switzerland,4,region
+2020-05-01,    Oceania,22,region
+2020-05-01,    Australia,19,region
+2020-05-01,    New Zealand,1,region
+2020-05-01,    Africa,1,region
+2020-04-01,    Southeast Asia,502,region
+2020-04-01,    Hong Kong SAR,12,region
+2020-04-01,    Taiwan,2,region
+2020-04-01,    Japan,33,region
+2020-04-01,    India,83,region
+2020-04-01,    Pakistan,0,region
+2020-04-01,    Sri Lanka,1,region
+2020-04-01,    Americas,14,region
+2020-04-01,    Canada,0,region
+2020-04-01,    USA,15,region
+2020-04-01,    Europe,45,region
+2020-04-01,    United Kingdom,17,region
+2020-04-01,    France,5,region
+2020-04-01,    Germany,2,region
+2020-04-01,    Italy,1,region
+2020-04-01,    Netherlands,1,region
+2020-04-01,    Switzerland,0,region
+2020-04-01,    Oceania,14,region
+2020-04-01,    Australia,7,region
+2020-04-01,    New Zealand,1,region
+2020-04-01,    Africa,3,region
+2020-03-01,    Southeast Asia,89333,region
+2020-03-01,    Hong Kong SAR,5982,region
+2020-03-01,    Taiwan,1594,region
+2020-03-01,    Japan,8813,region
+2020-03-01,    India,20063,region
+2020-03-01,    Pakistan,409,region
+2020-03-01,    Sri Lanka,1904,region
+2020-03-01,    Americas,13446,region
+2020-03-01,    Canada,1800,region
+2020-03-01,    USA,9511,region
+2020-03-01,    Europe,54050,region
+2020-03-01,    United Kingdom,15303,region
+2020-03-01,    France,5209,region
+2020-03-01,    Germany,10601,region
+2020-03-01,    Italy,1299,region
+2020-03-01,    Netherlands,3109,region
+2020-03-01,    Switzerland,2228,region
+2020-03-01,    Oceania,26437,region
+2020-03-01,    Australia,21947,region
+2020-03-01,    New Zealand,3244,region
+2020-03-01,    Africa,1590,region
+2020-02-01,    Southeast Asia,293504,region
+2020-02-01,    Hong Kong SAR,19051,region
+2020-02-01,    Taiwan,15201,region
+2020-02-01,    Japan,51115,region
+2020-02-01,    India,68294,region
+2020-02-01,    Pakistan,981,region
+2020-02-01,    Sri Lanka,4245,region
+2020-02-01,    Americas,49741,region
+2020-02-01,    Canada,6978,region
+2020-02-01,    USA,36732,region
+2020-02-01,    Europe,145504,region
+2020-02-01,    United Kingdom,38558,region
+2020-02-01,    France,17171,region
+2020-02-01,    Germany,30978,region
+2020-02-01,    Italy,7496,region
+2020-02-01,    Netherlands,7414,region
+2020-02-01,    Switzerland,6840,region
+2020-02-01,    Oceania,90172,region
+2020-02-01,    Australia,74350,region
+2020-02-01,    New Zealand,9841,region
+2020-02-01,    Africa,4221,region
+2020-01-01,    Southeast Asia,575253,region
+2020-01-01,    Hong Kong SAR,33492,region
+2020-01-01,    Taiwan,32756,region
+2020-01-01,    Japan,68779,region
+2020-01-01,    India,124212,region
+2020-01-01,    Pakistan,2283,region
+2020-01-01,    Sri Lanka,8591,region
+2020-01-01,    Americas,86191,region
+2020-01-01,    Canada,11564,region
+2020-01-01,    USA,63879,region
+2020-01-01,    Europe,193155,region
+2020-01-01,    United Kingdom,52457,region
+2020-01-01,    France,18209,region
+2020-01-01,    Germany,31519,region
+2020-01-01,    Italy,9439,region
+2020-01-01,    Netherlands,8097,region
+2020-01-01,    Switzerland,7957,region
+2020-01-01,    Oceania,108698,region
+2020-01-01,    Australia,96593,region
+2020-01-01,    New Zealand,13539,region
+2020-01-01,    Africa,9626,region
+2019-12-01,    Southeast Asia,559208,region
+2019-12-01,    Hong Kong SAR,44182,region
+2019-12-01,    Taiwan,31738,region
+2019-12-01,    Japan,73843,region
+2019-12-01,    India,118778,region
+2019-12-01,    Pakistan,1730,region
+2019-12-01,    Sri Lanka,9274,region
+2019-12-01,    Americas,87569,region
+2019-12-01,    Canada,12577,region
+2019-12-01,    USA,65618,region
+2019-12-01,    Europe,200145,region
+2019-12-01,    United Kingdom,53730,region
+2019-12-01,    France,18107,region
+2019-12-01,    Germany,28677,region
+2019-12-01,    Italy,12070,region
+2019-12-01,    Netherlands,8067,region
+2019-12-01,    Switzerland,8443,region
+2019-12-01,    Oceania,113369,region
+2019-12-01,    Australia,99791,region
+2019-12-01,    New Zealand,13466,region
+2019-12-01,    Africa,9713,region
+2019-11-01,    Southeast Asia,597781,region
+2019-11-01,    Hong Kong SAR,48413,region
+2019-11-01,    Taiwan,39579,region
+2019-11-01,    Japan,67246,region
+2019-11-01,    India,115859,region
+2019-11-01,    Pakistan,1709,region
+2019-11-01,    Sri Lanka,9817,region
+2019-11-01,    Americas,82417,region
+2019-11-01,    Canada,10907,region
+2019-11-01,    USA,63503,region
+2019-11-01,    Europe,186174,region
+2019-11-01,    United Kingdom,49066,region
+2019-11-01,    France,17667,region
+2019-11-01,    Germany,39495,region
+2019-11-01,    Italy,7874,region
+2019-11-01,    Netherlands,8541,region
+2019-11-01,    Switzerland,8502,region
+2019-11-01,    Oceania,113209,region
+2019-11-01,    Australia,103430,region
+2019-11-01,    New Zealand,12321,region
+2019-11-01,    Africa,7695,region
+2019-10-01,    Southeast Asia,567210,region
+2019-10-01,    Hong Kong SAR,43167,region
+2019-10-01,    Taiwan,38078,region
+2019-10-01,    Japan,80433,region
+2019-10-01,    India,117298,region
+2019-10-01,    Pakistan,1523,region
+2019-10-01,    Sri Lanka,8122,region
+2019-10-01,    Americas,77688,region
+2019-10-01,    Canada,11076,region
+2019-10-01,    USA,61614,region
+2019-10-01,    Europe,180219,region
+2019-10-01,    United Kingdom,51629,region
+2019-10-01,    France,17818,region
+2019-10-01,    Germany,29619,region
+2019-10-01,    Italy,7745,region
+2019-10-01,    Netherlands,8177,region
+2019-10-01,    Switzerland,8031,region
+2019-10-01,    Oceania,108054,region
+2019-10-01,    Australia,95420,region
+2019-10-01,    New Zealand,12774,region
+2019-10-01,    Africa,7190,region
+2019-09-01,    Southeast Asia,554830,region
+2019-09-01,    Hong Kong SAR,40278,region
+2019-09-01,    Taiwan,35022,region
+2019-09-01,    Japan,73937,region
+2019-09-01,    India,120056,region
+2019-09-01,    Pakistan,1591,region
+2019-09-01,    Sri Lanka,8502,region
+2019-09-01,    Americas,82731,region
+2019-09-01,    Canada,11249,region
+2019-09-01,    USA,62567,region
+2019-09-01,    Europe,176009,region
+2019-09-01,    United Kingdom,50783,region
+2019-09-01,    France,17316,region
+2019-09-01,    Germany,29299,region
+2019-09-01,    Italy,7475,region
+2019-09-01,    Netherlands,8456,region
+2019-09-01,    Switzerland,7824,region
+2019-09-01,    Oceania,111552,region
+2019-09-01,    Australia,97463,region
+2019-09-01,    New Zealand,13269,region
+2019-09-01,    Africa,8098,region
+2019-08-01,    Southeast Asia,557025,region
+2019-08-01,    Hong Kong SAR,38821,region
+2019-08-01,    Taiwan,37317,region
+2019-08-01,    Japan,76774,region
+2019-08-01,    India,123583,region
+2019-08-01,    Pakistan,1242,region
+2019-08-01,    Sri Lanka,7876,region
+2019-08-01,    Americas,84069,region
+2019-08-01,    Canada,12186,region
+2019-08-01,    USA,62708,region
+2019-08-01,    Europe,175314,region
+2019-08-01,    United Kingdom,50613,region
+2019-08-01,    France,17207,region
+2019-08-01,    Germany,28981,region
+2019-08-01,    Italy,8682,region
+2019-08-01,    Netherlands,8377,region
+2019-08-01,    Switzerland,7867,region
+2019-08-01,    Oceania,109136,region
+2019-08-01,    Australia,97433,region
+2019-08-01,    New Zealand,12939,region
+2019-08-01,    Africa,7369,region
+2019-07-01,    Southeast Asia,558917,region
+2019-07-01,    Hong Kong SAR,34992,region
+2019-07-01,    Taiwan,38117,region
+2019-07-01,    Japan,74427,region
+2019-07-01,    India,114726,region
+2019-07-01,    Pakistan,1300,region
+2019-07-01,    Sri Lanka,8058,region
+2019-07-01,    Americas,82805,region
+2019-07-01,    Canada,11659,region
+2019-07-01,    USA,61981,region
+2019-07-01,    Europe,172932,region
+2019-07-01,    United Kingdom,50542,region
+2019-07-01,    France,17629,region
+2019-07-01,    Germany,28846,region
+2019-07-01,    Italy,7314,region
+2019-07-01,    Netherlands,8251,region
+2019-07-01,    Switzerland,7764,region
+2019-07-01,    Oceania,109031,region
+2019-07-01,    Australia,95789,region
+2019-07-01,    New Zealand,12682,region
+2019-07-01,    Africa,7386,region
+2019-06-01,    Southeast Asia,535823,region
+2019-06-01,    Hong Kong SAR,39120,region
+2019-06-01,    Taiwan,35360,region
+2019-06-01,    Japan,71573,region
+2019-06-01,    India,115831,region
+2019-06-01,    Pakistan,1944,region
+2019-06-01,    Sri Lanka,8422,region
+2019-06-01,    Americas,79429,region
+2019-06-01,    Canada,10951,region
+2019-06-01,    USA,60720,region
+2019-06-01,    Europe,169820,region
+2019-06-01,    United Kingdom,50713,region
+2019-06-01,    France,17688,region
+2019-06-01,    Germany,30388,region
+2019-06-01,    Italy,7175,region
+2019-06-01,    Netherlands,8026,region
+2019-06-01,    Switzerland,8363,region
+2019-06-01,    Oceania,108849,region
+2019-06-01,    Australia,92091,region
+2019-06-01,    New Zealand,12535,region
+2019-06-01,    Africa,7840,region
+2019-05-01,    Southeast Asia,536696,region
+2019-05-01,    Hong Kong SAR,39498,region
+2019-05-01,    Taiwan,34352,region
+2019-05-01,    Japan,74841,region
+2019-05-01,    India,117131,region
+2019-05-01,    Pakistan,1411,region
+2019-05-01,    Sri Lanka,7340,region
+2019-05-01,    Americas,76855,region
+2019-05-01,    Canada,11729,region
+2019-05-01,    USA,58190,region
+2019-05-01,    Europe,166463,region
+2019-05-01,    United Kingdom,51442,region
+2019-05-01,    France,16586,region
+2019-05-01,    Germany,27469,region
+2019-05-01,    Italy,7629,region
+2019-05-01,    Netherlands,7800,region
+2019-05-01,    Switzerland,7967,region
+2019-05-01,    Oceania,114364,region
+2019-05-01,    Australia,94746,region
+2019-05-01,    New Zealand,13022,region
+2019-05-01,    Africa,6809,region
+2019-04-01,    Southeast Asia,549709,region
+2019-04-01,    Hong Kong SAR,46509,region
+2019-04-01,    Taiwan,32613,region
+2019-04-01,    Japan,85760,region
+2019-04-01,    India,115422,region
+2019-04-01,    Pakistan,1749,region
+2019-04-01,    Sri Lanka,7277,region
+2019-04-01,    Americas,80440,region
+2019-04-01,    Canada,12362,region
+2019-04-01,    USA,59445,region
+2019-04-01,    Europe,176794,region
+2019-04-01,    United Kingdom,50899,region
+2019-04-01,    France,17150,region
+2019-04-01,    Germany,34311,region
+2019-04-01,    Italy,7929,region
+2019-04-01,    Netherlands,8218,region
+2019-04-01,    Switzerland,8862,region
+2019-04-01,    Oceania,120322,region
+2019-04-01,    Australia,99169,region
+2019-04-01,    New Zealand,14336,region
+2019-04-01,    Africa,6963,region
+2019-03-01,    Southeast Asia,535362,region
+2019-03-01,    Hong Kong SAR,38399,region
+2019-03-01,    Taiwan,32715,region
+2019-03-01,    Japan,64611,region
+2019-03-01,    India,120724,region
+2019-03-01,    Pakistan,1938,region
+2019-03-01,    Sri Lanka,8222,region
+2019-03-01,    Americas,77633,region
+2019-03-01,    Canada,11837,region
+2019-03-01,    USA,58800,region
+2019-03-01,    Europe,171541,region
+2019-03-01,    United Kingdom,49244,region
+2019-03-01,    France,18173,region
+2019-03-01,    Germany,32364,region
+2019-03-01,    Italy,7538,region
+2019-03-01,    Netherlands,8796,region
+2019-03-01,    Switzerland,7887,region
+2019-03-01,    Oceania,100254,region
+2019-03-01,    Australia,84782,region
+2019-03-01,    New Zealand,11725,region
+2019-03-01,    Africa,6912,region
+2019-02-01,    Southeast Asia,538469,region
+2019-02-01,    Hong Kong SAR,37119,region
+2019-02-01,    Taiwan,32549,region
+2019-02-01,    Japan,72490,region
+2019-02-01,    India,123885,region
+2019-02-01,    Pakistan,2017,region
+2019-02-01,    Sri Lanka,8178,region
+2019-02-01,    Americas,74628,region
+2019-02-01,    Canada,10601,region
+2019-02-01,    USA,55657,region
+2019-02-01,    Europe,176667,region
+2019-02-01,    United Kingdom,49026,region
+2019-02-01,    France,18112,region
+2019-02-01,    Germany,33413,region
+2019-02-01,    Italy,11181,region
+2019-02-01,    Netherlands,8151,region
+2019-02-01,    Switzerland,7934,region
+2019-02-01,    Oceania,107689,region
+2019-02-01,    Australia,90690,region
+2019-02-01,    New Zealand,11602,region
+2019-02-01,    Africa,6315,region
+2019-01-01,    Southeast Asia,529768,region
+2019-01-01,    Hong Kong SAR,40730,region
+2019-01-01,    Taiwan,36938,region
+2019-01-01,    Japan,72959,region
+2019-01-01,    India,118629,region
+2019-01-01,    Pakistan,2110,region
+2019-01-01,    Sri Lanka,8065,region
+2019-01-01,    Americas,75835,region
+2019-01-01,    Canada,11315,region
+2019-01-01,    USA,57823,region
+2019-01-01,    Europe,183067,region
+2019-01-01,    United Kingdom,50952,region
+2019-01-01,    France,19512,region
+2019-01-01,    Germany,34214,region
+2019-01-01,    Italy,8982,region
+2019-01-01,    Netherlands,8237,region
+2019-01-01,    Switzerland,8519,region
+2019-01-01,    Oceania,103278,region
+2019-01-01,    Australia,91772,region
+2019-01-01,    New Zealand,11755,region
+2019-01-01,    Africa,6460,region
+2018-12-01,    Southeast Asia,535107,region
+2018-12-01,    Hong Kong SAR,37250,region
+2018-12-01,    Taiwan,36824,region
+2018-12-01,    Japan,67254,region
+2018-12-01,    India,120419,region
+2018-12-01,    Pakistan,2086,region
+2018-12-01,    Sri Lanka,7515,region
+2018-12-01,    Americas,74873,region
+2018-12-01,    Canada,11765,region
+2018-12-01,    USA,55928,region
+2018-12-01,    Europe,179005,region
+2018-12-01,    United Kingdom,46479,region
+2018-12-01,    France,16777,region
+2018-12-01,    Germany,32995,region
+2018-12-01,    Italy,9245,region
+2018-12-01,    Netherlands,7913,region
+2018-12-01,    Switzerland,8403,region
+2018-12-01,    Oceania,102103,region
+2018-12-01,    Australia,89256,region
+2018-12-01,    New Zealand,11739,region
+2018-12-01,    Africa,7716,region
+2018-11-01,    Southeast Asia,543067,region
+2018-11-01,    Hong Kong SAR,38920,region
+2018-11-01,    Taiwan,35188,region
+2018-11-01,    Japan,69566,region
+2018-11-01,    India,123543,region
+2018-11-01,    Pakistan,1757,region
+2018-11-01,    Sri Lanka,8072,region
+2018-11-01,    Americas,75149,region
+2018-11-01,    Canada,11560,region
+2018-11-01,    USA,56259,region
+2018-11-01,    Europe,173354,region
+2018-11-01,    United Kingdom,49619,region
+2018-11-01,    France,18301,region
+2018-11-01,    Germany,30628,region
+2018-11-01,    Italy,7658,region
+2018-11-01,    Netherlands,7954,region
+2018-11-01,    Switzerland,8117,region
+2018-11-01,    Oceania,96904,region
+2018-11-01,    Australia,86739,region
+2018-11-01,    New Zealand,11333,region
+2018-11-01,    Africa,6214,region
+2018-10-01,    Southeast Asia,547755,region
+2018-10-01,    Hong Kong SAR,41141,region
+2018-10-01,    Taiwan,34354,region
+2018-10-01,    Japan,74018,region
+2018-10-01,    India,114656,region
+2018-10-01,    Pakistan,1891,region
+2018-10-01,    Sri Lanka,9398,region
+2018-10-01,    Americas,70245,region
+2018-10-01,    Canada,11053,region
+2018-10-01,    USA,53730,region
+2018-10-01,    Europe,176665,region
+2018-10-01,    United Kingdom,50762,region
+2018-10-01,    France,16902,region
+2018-10-01,    Germany,30013,region
+2018-10-01,    Italy,7885,region
+2018-10-01,    Netherlands,8343,region
+2018-10-01,    Switzerland,8358,region
+2018-10-01,    Oceania,105726,region
+2018-10-01,    Australia,93306,region
+2018-10-01,    New Zealand,11711,region
+2018-10-01,    Africa,6632,region
+2018-09-01,    Southeast Asia,549260,region
+2018-09-01,    Hong Kong SAR,41092,region
+2018-09-01,    Taiwan,34917,region
+2018-09-01,    Japan,70977,region
+2018-09-01,    India,118764,region
+2018-09-01,    Pakistan,1955,region
+2018-09-01,    Sri Lanka,9697,region
+2018-09-01,    Americas,73141,region
+2018-09-01,    Canada,11147,region
+2018-09-01,    USA,54135,region
+2018-09-01,    Europe,178474,region
+2018-09-01,    United Kingdom,54915,region
+2018-09-01,    France,16224,region
+2018-09-01,    Germany,31146,region
+2018-09-01,    Italy,8190,region
+2018-09-01,    Netherlands,8286,region
+2018-09-01,    Switzerland,8330,region
+2018-09-01,    Oceania,109085,region
+2018-09-01,    Australia,96411,region
+2018-09-01,    New Zealand,11521,region
+2018-09-01,    Africa,6459,region
+2018-08-01,    Southeast Asia,547853,region
+2018-08-01,    Hong Kong SAR,40275,region
+2018-08-01,    Taiwan,36600,region
+2018-08-01,    Japan,70533,region
+2018-08-01,    India,114864,region
+2018-08-01,    Pakistan,2092,region
+2018-08-01,    Sri Lanka,9773,region
+2018-08-01,    Americas,71430,region
+2018-08-01,    Canada,10981,region
+2018-08-01,    USA,52784,region
+2018-08-01,    Europe,177722,region
+2018-08-01,    United Kingdom,50562,region
+2018-08-01,    France,16850,region
+2018-08-01,    Germany,31163,region
+2018-08-01,    Italy,8967,region
+2018-08-01,    Netherlands,8377,region
+2018-08-01,    Switzerland,8584,region
+2018-08-01,    Oceania,106479,region
+2018-08-01,    Australia,95246,region
+2018-08-01,    New Zealand,11667,region
+2018-08-01,    Africa,7022,region
+2018-07-01,    Southeast Asia,535166,region
+2018-07-01,    Hong Kong SAR,36558,region
+2018-07-01,    Taiwan,35500,region
+2018-07-01,    Japan,70257,region
+2018-07-01,    India,120540,region
+2018-07-01,    Pakistan,1926,region
+2018-07-01,    Sri Lanka,10611,region
+2018-07-01,    Americas,72072,region
+2018-07-01,    Canada,10381,region
+2018-07-01,    USA,53434,region
+2018-07-01,    Europe,176592,region
+2018-07-01,    United Kingdom,50851,region
+2018-07-01,    France,17629,region
+2018-07-01,    Germany,31482,region
+2018-07-01,    Italy,7920,region
+2018-07-01,    Netherlands,8162,region
+2018-07-01,    Switzerland,8531,region
+2018-07-01,    Oceania,107713,region
+2018-07-01,    Australia,95030,region
+2018-07-01,    New Zealand,11930,region
+2018-07-01,    Africa,7831,region
+2018-06-01,    Southeast Asia,560534,region
+2018-06-01,    Hong Kong SAR,41408,region
+2018-06-01,    Taiwan,35390,region
+2018-06-01,    Japan,67056,region
+2018-06-01,    India,125327,region
+2018-06-01,    Pakistan,2236,region
+2018-06-01,    Sri Lanka,9560,region
+2018-06-01,    Americas,68862,region
+2018-06-01,    Canada,10164,region
+2018-06-01,    USA,52316,region
+2018-06-01,    Europe,170599,region
+2018-06-01,    United Kingdom,48020,region
+2018-06-01,    France,16238,region
+2018-06-01,    Germany,30616,region
+2018-06-01,    Italy,8117,region
+2018-06-01,    Netherlands,8494,region
+2018-06-01,    Switzerland,8298,region
+2018-06-01,    Oceania,110686,region
+2018-06-01,    Australia,95598,region
+2018-06-01,    New Zealand,11660,region
+2018-06-01,    Africa,6932,region
+2018-05-01,    Southeast Asia,528356,region
+2018-05-01,    Hong Kong SAR,39827,region
+2018-05-01,    Taiwan,34305,region
+2018-05-01,    Japan,66739,region
+2018-05-01,    India,124524,region
+2018-05-01,    Pakistan,1995,region
+2018-05-01,    Sri Lanka,9732,region
+2018-05-01,    Americas,69692,region
+2018-05-01,    Canada,10224,region
+2018-05-01,    USA,51697,region
+2018-05-01,    Europe,169446,region
+2018-05-01,    United Kingdom,49287,region
+2018-05-01,    France,17474,region
+2018-05-01,    Germany,29777,region
+2018-05-01,    Italy,8296,region
+2018-05-01,    Netherlands,8319,region
+2018-05-01,    Switzerland,8658,region
+2018-05-01,    Oceania,108018,region
+2018-05-01,    Australia,92933,region
+2018-05-01,    New Zealand,11272,region
+2018-05-01,    Africa,6141,region
+2018-04-01,    Southeast Asia,548822,region
+2018-04-01,    Hong Kong SAR,36353,region
+2018-04-01,    Taiwan,36100,region
+2018-04-01,    Japan,67262,region
+2018-04-01,    India,118081,region
+2018-04-01,    Pakistan,2470,region
+2018-04-01,    Sri Lanka,10444,region
+2018-04-01,    Americas,73785,region
+2018-04-01,    Canada,11451,region
+2018-04-01,    USA,54928,region
+2018-04-01,    Europe,163435,region
+2018-04-01,    United Kingdom,49197,region
+2018-04-01,    France,17657,region
+2018-04-01,    Germany,27239,region
+2018-04-01,    Italy,7952,region
+2018-04-01,    Netherlands,8452,region
+2018-04-01,    Switzerland,8500,region
+2018-04-01,    Oceania,107685,region
+2018-04-01,    Australia,91990,region
+2018-04-01,    New Zealand,11311,region
+2018-04-01,    Africa,6859,region
+2018-03-01,    Southeast Asia,548275,region
+2018-03-01,    Hong Kong SAR,46859,region
+2018-03-01,    Taiwan,34914,region
+2018-03-01,    Japan,64975,region
+2018-03-01,    India,120730,region
+2018-03-01,    Pakistan,3099,region
+2018-03-01,    Sri Lanka,9562,region
+2018-03-01,    Americas,72217,region
+2018-03-01,    Canada,10597,region
+2018-03-01,    USA,54356,region
+2018-03-01,    Europe,170907,region
+2018-03-01,    United Kingdom,49195,region
+2018-03-01,    France,16817,region
+2018-03-01,    Germany,26413,region
+2018-03-01,    Italy,8462,region
+2018-03-01,    Netherlands,8070,region
+2018-03-01,    Switzerland,9121,region
+2018-03-01,    Oceania,112890,region
+2018-03-01,    Australia,94873,region
+2018-03-01,    New Zealand,11549,region
+2018-03-01,    Africa,7395,region
+2018-02-01,    Southeast Asia,541647,region
+2018-02-01,    Hong Kong SAR,35190,region
+2018-02-01,    Taiwan,36120,region
+2018-02-01,    Japan,69949,region
+2018-02-01,    India,113311,region
+2018-02-01,    Pakistan,1937,region
+2018-02-01,    Sri Lanka,9565,region
+2018-02-01,    Americas,72517,region
+2018-02-01,    Canada,10326,region
+2018-02-01,    USA,55772,region
+2018-02-01,    Europe,167644,region
+2018-02-01,    United Kingdom,46661,region
+2018-02-01,    France,16594,region
+2018-02-01,    Germany,28970,region
+2018-02-01,    Italy,10177,region
+2018-02-01,    Netherlands,8183,region
+2018-02-01,    Switzerland,8887,region
+2018-02-01,    Oceania,101286,region
+2018-02-01,    Australia,89824,region
+2018-02-01,    New Zealand,10775,region
+2018-02-01,    Africa,6875,region
+2018-01-01,    Southeast Asia,530188,region
+2018-01-01,    Hong Kong SAR,40077,region
+2018-01-01,    Taiwan,32332,region
+2018-01-01,    Japan,70383,region
+2018-01-01,    India,121766,region
+2018-01-01,    Pakistan,2198,region
+2018-01-01,    Sri Lanka,10178,region
+2018-01-01,    Americas,67156,region
+2018-01-01,    Canada,10087,region
+2018-01-01,    USA,47698,region
+2018-01-01,    Europe,166260,region
+2018-01-01,    United Kingdom,44645,region
+2018-01-01,    France,17105,region
+2018-01-01,    Germany,28599,region
+2018-01-01,    Italy,8325,region
+2018-01-01,    Netherlands,7587,region
+2018-01-01,    Switzerland,8442,region
+2018-01-01,    Oceania,98192,region
+2018-01-01,    Australia,86554,region
+2018-01-01,    New Zealand,10714,region
+2018-01-01,    Africa,6661,region
