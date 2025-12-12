@@ -15,18 +15,18 @@ This project tackles this uncertainty by moving from reactive observation to **p
 
 ---
 
-### 2. My Technical Approach
+## 2. My Technical Approach
 
 To achieve accurate forecasts, I developed a comprehensive data science pipeline using **Python**:
 
-* **Data Collection & Integration:** Consolidated historical tourism statistics, meteorological data (rainfall, temperature), and calendars of major events using `Pandas` and `NumPy`.
-* **Interactive EDA:** Leveraged `Plotly` (Express, Subplots, Graph Objects) and `Seaborn` to create dynamic charts that distinguish between regular seasonal trends and event-driven spikes.
-* **Feature Engineering:** Used `StandardScaler` to normalize data and ensure model stability across different variable scales.
+* **Data Collection & Integration:** Consolidated historical tourism statistics, meteorological data (rainfall, temperature), and calendars of major events into a unified dataset for analysis.
+* **Exploratory Data Analysis (EDA):** Conducted in-depth visual analysis to distinguish between regular seasonal trends, event-driven spikes, and weather-related fluctuations.
+* **Feature Engineering:** Applied statistical normalization techniques to scale data features, ensuring model stability across variables with different magnitudes.
 * **Model Training:** Developed a diverse set of predictive models to capture different data patterns:
-    * **Linear Baselines:** `LinearRegression` and `LassoCV` to establish baseline trends.
-    * **Machine Learning:** `RandomForestRegressor` and `XGBRegressor` (XGBoost) to capture complex, non-linear relationships between weather, events, and demand.
-    * **Forecasting:** Implemented `Prophet` to handle seasonality and trend components specifically for time-dependent data.
-* **Optimization & Evaluation:** Utilized `RandomizedSearchCV` for hyperparameter tuning and validated results using `mean_squared_error` (RMSE) and `r2_score`.
+    * **Baseline Analysis:** Established linear baselines to understand fundamental trends.
+    * **Machine Learning:** Deployed ensemble algorithms to capture complex, non-linear relationships between weather, events, and demand.
+    * **Forecasting:** Implemented specialized time-series algorithms to explicitly model seasonality and long-term trends.
+* **Optimization & Evaluation:** Refined model performance through hyperparameter tuning and validated results using rigorous error metrics (RMSE, R²).
 
 ---
 
