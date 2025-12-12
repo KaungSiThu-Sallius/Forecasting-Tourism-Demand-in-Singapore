@@ -2,8 +2,6 @@
 
 A data-driven project leveraging historical tourism data, weather patterns, and major events to predict tourism demand in Singapore. Features regression analysis, forecasting models, and interactive visualizations to provide actionable insights for stakeholders in the tourism industry.
 
-➡️ **[Live Demo of the Interactive Dashboard](#)** *(Replace with your link)*
-
 ---
 
 ### 1. The Business Problem
