@@ -35,8 +35,7 @@ To achieve accurate forecasts, I developed a comprehensive data science pipeline
 The final solution provides a holistic view of the tourism landscape:
 
 #### 🧭 **Data Analysis & Visualization**
-* **Seasonal Trends:** Identified clear cyclical patterns, pinpointing peak travel windows (e.g., December holidays, Chinese New Year) using interactive Plotly charts.
-* **Event Impact:** Quantified the surge in tourism activity during marquee events like the Formula 1 Grand Prix.
+* **Seasonal Trends:** Identified clear cyclical patterns, pinpointing peak travel windows using interactive Plotly charts.
 * **Weather Correlation:** Visualized the relationship between rainfall intensity and indoor vs. outdoor attraction demand.
 
 #### 📊 **Prediction Model**
