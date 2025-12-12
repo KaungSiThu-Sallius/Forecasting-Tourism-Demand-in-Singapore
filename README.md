@@ -19,7 +19,7 @@ This project tackles this uncertainty by moving from reactive observation to **p
 
 To achieve accurate forecasts, I developed a comprehensive data pipeline:
 
-* **Data Collection & Integration:** Consolidated historical tourism statistics, meteorological data (rainfall, temperature), and calendars of major events (e.g., Great Singapore Sale, F1).
+* **Data Collection & Integration:** Consolidated historical tourism statistics, meteorological data (rainfall, temperature), and calendars of major events.
 * **Data Preprocessing:** Performed rigorous time-series cleaning, including handling missing timestamps, seasonal decomposition, and feature engineering to capture lag effects and rolling averages.
 * **Exploratory Data Analysis (EDA):** Analyzed cyclical patterns to distinguish between regular seasonal trends and event-driven spikes.
 * **Model Training:** Developed and evaluated machine learning models (e.g., SARIMA for univariate analysis, XGBoost/Random Forest for multivariate regression) to capture non-linear relationships between weather/events and demand.
